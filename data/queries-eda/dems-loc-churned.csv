@@ -1,0 +1,1870 @@
+Customer Status,Age,Gender,Dependents,Number of Dependents,Zip Code,City
+Churned,75,Male,false,0,94588,Pleasanton
+Churned,78,Female,false,0,92663,Newport Beach
+Churned,79,Male,false,0,94123,San Francisco
+Churned,69,Female,false,0,94945,Novato
+Churned,69,Female,false,0,95984,Twain
+Churned,71,Male,false,0,95666,Pioneer
+Churned,28,Female,false,0,92397,Wrightwood
+Churned,32,Female,false,0,92401,San Bernardino
+Churned,19,Female,false,0,93260,Posey
+Churned,40,Female,true,3,90063,Los Angeles
+Churned,50,Female,true,2,91773,San Dimas
+Churned,60,Male,false,0,92347,Hinkley
+Churned,25,Female,false,0,95010,Capitola
+Churned,47,Female,false,0,95301,Atwater
+Churned,42,Male,false,0,95815,Sacramento
+Churned,20,Male,true,1,92109,San Diego
+Churned,39,Female,false,0,93243,Lebec
+Churned,28,Female,false,0,92592,Temecula
+Churned,22,Male,true,2,96027,Etna
+Churned,40,Male,false,0,91340,San Fernando
+Churned,68,Female,false,0,92823,Brea
+Churned,79,Female,false,0,91411,Van Nuys
+Churned,79,Male,false,0,93513,Big Pine
+Churned,56,Male,true,3,90039,Los Angeles
+Churned,53,Female,false,0,90731,San Pedro
+Churned,61,Male,false,0,92028,Fallbrook
+Churned,31,Male,false,0,93536,Lancaster
+Churned,46,Female,false,0,95417,Branscomb
+Churned,58,Male,false,0,95570,Trinidad
+Churned,57,Male,false,0,95949,Grass Valley
+Churned,44,Male,false,0,90670,Santa Fe Springs
+Churned,23,Male,false,0,93657,Sanger
+Churned,57,Female,false,0,94703,Berkeley
+Churned,57,Female,false,0,95330,Lathrop
+Churned,53,Female,false,0,90742,Sunset Beach
+Churned,36,Male,false,0,95251,Sheep Ranch
+Churned,63,Male,false,0,95614,Cool
+Churned,49,Male,false,0,95692,Wheatland
+Churned,61,Female,false,0,91343,North Hills
+Churned,74,Female,false,0,95562,Rio Dell
+Churned,71,Male,false,0,94402,San Mateo
+Churned,65,Female,false,0,90007,Los Angeles
+Churned,75,Female,false,0,91906,Campo
+Churned,76,Male,false,0,95939,Elk Creek
+Churned,76,Female,false,0,96040,Hat Creek
+Churned,69,Female,false,0,92629,Dana Point
+Churned,52,Female,false,0,92860,Norco
+Churned,28,Male,false,0,95619,Diamond Springs
+Churned,46,Male,false,0,90047,Los Angeles
+Churned,22,Female,false,0,90059,Los Angeles
+Churned,28,Male,false,0,91321,Newhall
+Churned,39,Male,false,0,92382,Running Springs
+Churned,41,Male,false,0,92804,Anaheim
+Churned,35,Male,false,0,93268,Taft
+Churned,34,Female,false,0,94014,Daly City
+Churned,64,Male,false,0,94586,Sunol
+Churned,58,Female,false,0,94545,Hayward
+Churned,50,Female,false,0,90405,Santa Monica
+Churned,64,Female,false,0,91030,South Pasadena
+Churned,46,Male,true,1,92126,San Diego
+Churned,37,Male,false,0,95928,Chico
+Churned,30,Male,false,0,96001,Redding
+Churned,58,Male,false,0,92027,Escondido
+Churned,50,Male,false,0,90660,Pico Rivera
+Churned,68,Female,false,0,94707,Berkeley
+Churned,66,Male,false,0,96109,Doyle
+Churned,75,Female,false,0,93010,Camarillo
+Churned,70,Female,false,0,93021,Moorpark
+Churned,65,Male,false,0,95251,Vallecito
+Churned,69,Male,false,0,95315,Delhi
+Churned,46,Female,false,0,94971,Tomales
+Churned,38,Male,false,0,95601,Amador City
+Churned,61,Female,false,0,95824,Sacramento
+Churned,32,Female,false,0,92130,San Diego
+Churned,35,Female,false,0,90745,Carson
+Churned,51,Female,false,0,90810,Long Beach
+Churned,48,Male,false,0,92220,Banning
+Churned,27,Male,false,0,93108,Santa Barbara
+Churned,40,Male,false,0,95367,Riverbank
+Churned,44,Male,false,0,95606,Brooks
+Churned,55,Male,false,0,95968,Palermo
+Churned,41,Female,false,0,92028,Fallbrook
+Churned,63,Male,false,0,91311,Chatsworth
+Churned,25,Female,false,0,91423,Sherman Oaks
+Churned,29,Female,false,0,92506,Riverside
+Churned,62,Female,false,0,95305,Big Oak Flat
+Churned,24,Male,false,0,94805,Richmond
+Churned,51,Female,false,0,95350,Modesto
+Churned,47,Male,false,0,95464,Nice
+Churned,70,Female,false,0,95439,Fulton
+Churned,74,Male,false,0,95935,Dobbins
+Churned,69,Male,false,0,94520,Concord
+Churned,70,Female,false,0,95207,Stockton
+Churned,73,Female,false,0,95209,Stockton
+Churned,66,Female,false,0,95928,Chico
+Churned,40,Female,false,0,94946,Nicasio
+Churned,55,Female,false,0,95301,Atwater
+Churned,54,Female,false,0,95425,Cloverdale
+Churned,39,Female,false,0,95663,Penryn
+Churned,28,Female,false,0,92117,San Diego
+Churned,51,Female,false,0,95405,Santa Rosa
+Churned,48,Female,false,0,95726,Pollock Pines
+Churned,35,Female,true,3,90221,Compton
+Churned,28,Male,false,0,95014,Cupertino
+Churned,58,Male,false,0,95632,Galt
+Churned,46,Male,false,0,95686,Thornton
+Churned,39,Female,false,0,92126,San Diego
+Churned,22,Male,false,0,93532,Lake Hughes
+Churned,53,Female,false,0,94303,Palo Alto
+Churned,34,Male,false,0,95076,Watsonville
+Churned,54,Female,false,0,95646,Kirkwood
+Churned,31,Female,false,0,95690,Walnut Grove
+Churned,27,Male,false,0,96071,Old Station
+Churned,30,Male,false,0,96130,Susanville
+Churned,33,Female,false,0,90027,Los Angeles
+Churned,55,Female,false,0,90502,Torrance
+Churned,62,Female,false,0,91203,Glendale
+Churned,65,Male,false,0,94102,San Francisco
+Churned,80,Male,false,0,95310,Columbia
+Churned,80,Female,false,0,91606,North Hollywood
+Churned,71,Male,false,0,90248,Gardena
+Churned,70,Male,false,0,92325,Crestline
+Churned,74,Female,false,0,93591,Palmdale
+Churned,34,Female,true,5,90262,Lynwood
+Churned,54,Male,false,0,93637,Madera
+Churned,53,Female,false,0,95422,Clearlake
+Churned,39,Male,false,0,92117,San Diego
+Churned,48,Male,false,0,94105,San Francisco
+Churned,19,Female,false,0,95065,Santa Cruz
+Churned,43,Male,false,0,95246,Mountain Ranch
+Churned,51,Female,false,0,95922,Camptonville
+Churned,31,Female,false,0,92592,Temecula
+Churned,64,Male,false,0,93705,Fresno
+Churned,57,Female,false,0,90013,Los Angeles
+Churned,40,Male,false,0,90822,Long Beach
+Churned,34,Male,false,0,94403,San Mateo
+Churned,37,Female,false,0,95135,San Jose
+Churned,19,Male,false,0,95222,Angels Camp
+Churned,40,Male,true,3,91932,Imperial Beach
+Churned,29,Male,false,0,92230,Cabazon
+Churned,28,Female,false,0,92282,White Water
+Churned,74,Male,false,0,95247,Murphys
+Churned,73,Male,false,0,95636,Grizzly Flats
+Churned,71,Male,false,0,93204,Avenal
+Churned,73,Male,false,0,95037,Morgan Hill
+Churned,77,Male,false,0,95422,Clearlake
+Churned,43,Female,true,1,91350,Santa Clarita
+Churned,25,Male,false,0,92373,Redlands
+Churned,41,Female,false,0,93604,Bass Lake
+Churned,64,Female,false,0,94066,San Bruno
+Churned,39,Male,false,0,94598,Walnut Creek
+Churned,38,Male,false,0,95209,Stockton
+Churned,44,Male,false,0,91206,Glendale
+Churned,24,Female,false,0,93215,Delano
+Churned,26,Female,false,0,93608,Cantua Creek
+Churned,62,Male,false,0,94568,Dublin
+Churned,19,Male,false,0,94940,Marshall
+Churned,47,Female,false,0,95448,Healdsburg
+Churned,25,Male,false,0,91767,Pomona
+Churned,50,Male,false,0,92627,Costa Mesa
+Churned,51,Male,false,0,93434,Guadalupe
+Churned,59,Male,false,0,94401,San Mateo
+Churned,46,Female,false,0,95570,Trinidad
+Churned,53,Female,false,0,92109,San Diego
+Churned,49,Male,false,0,92126,San Diego
+Churned,52,Male,false,0,92679,Trabuco Canyon
+Churned,38,Female,false,0,95427,Comptche
+Churned,64,Female,false,0,96006,Adin
+Churned,49,Female,false,0,96069,Oak Run
+Churned,56,Male,false,0,91744,La Puente
+Churned,76,Male,false,0,93668,Tranquillity
+Churned,79,Female,false,0,94014,Daly City
+Churned,66,Male,false,0,95356,Modesto
+Churned,76,Female,false,0,93702,Fresno
+Churned,78,Female,false,0,94521,Concord
+Churned,48,Female,false,0,92805,Anaheim
+Churned,37,Female,false,0,95357,Modesto
+Churned,20,Female,false,0,95673,Rio Linda
+Churned,49,Female,false,0,93251,Mc Kittrick
+Churned,23,Male,false,0,93512,Benton
+Churned,46,Male,false,0,96093,Weaverville
+Churned,64,Female,false,0,90017,Los Angeles
+Churned,30,Female,false,0,90302,Inglewood
+Churned,53,Male,false,0,90712,Lakewood
+Churned,48,Female,false,0,92278,Twentynine Palms
+Churned,53,Female,false,0,92821,Brea
+Churned,59,Male,false,0,94704,Berkeley
+Churned,39,Male,false,0,95668,Pleasant Grove
+Churned,77,Male,false,0,92122,San Diego
+Churned,71,Male,false,0,92382,Running Springs
+Churned,77,Female,false,0,92126,San Diego
+Churned,74,Male,false,0,95407,Santa Rosa
+Churned,63,Male,false,0,90745,Carson
+Churned,48,Female,true,3,91206,Glendale
+Churned,22,Male,false,0,92122,San Diego
+Churned,54,Female,false,0,92327,Daggett
+Churned,40,Female,false,0,92392,Victorville
+Churned,49,Male,false,0,94947,Novato
+Churned,35,Female,false,0,91601,North Hollywood
+Churned,31,Male,false,0,92129,San Diego
+Churned,48,Female,false,0,93067,Summerland
+Churned,36,Male,false,0,96103,Blairsden Graeagle
+Churned,39,Male,false,0,90031,Los Angeles
+Churned,38,Female,false,0,92108,San Diego
+Churned,26,Female,false,0,94931,Cotati
+Churned,47,Male,false,0,95776,Woodland
+Churned,22,Female,false,0,95817,Sacramento
+Churned,59,Male,true,3,92121,San Diego
+Churned,33,Male,false,0,92591,Temecula
+Churned,29,Female,false,0,93656,Riverdale
+Churned,27,Male,false,0,94804,Richmond
+Churned,21,Female,false,0,95014,Cupertino
+Churned,37,Female,false,0,96016,Cassel
+Churned,52,Male,false,0,92113,San Diego
+Churned,74,Female,false,0,92807,Anaheim
+Churned,66,Male,false,0,94539,Fremont
+Churned,77,Male,false,0,94933,Forest Knolls
+Churned,66,Female,false,0,92583,San Jacinto
+Churned,78,Male,false,0,92630,Lake Forest
+Churned,66,Male,false,0,95008,Campbell
+Churned,67,Female,false,0,95542,Garberville
+Churned,65,Male,false,0,95678,Roseville
+Churned,73,Male,false,0,90503,Torrance
+Churned,20,Female,false,0,90032,Los Angeles
+Churned,33,Female,false,0,93626,Friant
+Churned,20,Male,false,0,92027,Escondido
+Churned,59,Female,false,0,95112,San Jose
+Churned,60,Female,false,0,91789,Walnut
+Churned,30,Female,false,0,92707,Santa Ana
+Churned,59,Female,false,0,95626,Elverta
+Churned,30,Male,false,0,95127,San Jose
+Churned,34,Female,false,0,95310,Columbia
+Churned,29,Male,false,0,96061,Mill Creek
+Churned,56,Male,false,0,96126,Sierraville
+Churned,62,Female,false,0,90049,Los Angeles
+Churned,28,Female,false,0,90292,Marina Del Rey
+Churned,37,Female,true,1,92060,Palomar Mountain
+Churned,71,Male,false,0,92027,Escondido
+Churned,76,Male,false,0,91030,South Pasadena
+Churned,67,Female,false,0,91342,Sylmar
+Churned,67,Female,false,0,93251,Mc Kittrick
+Churned,70,Male,false,0,93648,Parlier
+Churned,70,Female,false,0,94569,Port Costa
+Churned,78,Male,false,0,90712,Lakewood
+Churned,73,Female,false,0,92028,Fallbrook
+Churned,80,Male,true,2,95458,Lucerne
+Churned,37,Male,true,1,90504,Torrance
+Churned,42,Female,true,1,91016,Monrovia
+Churned,47,Female,false,0,91731,El Monte
+Churned,54,Male,false,0,95220,Acampo
+Churned,47,Female,false,0,92211,Palm Desert
+Churned,52,Male,false,0,95423,Clearlake Oaks
+Churned,35,Female,false,0,95501,Eureka
+Churned,40,Male,false,0,95975,Rough And Ready
+Churned,63,Male,false,0,92028,Fallbrook
+Churned,30,Male,false,0,91902,Bonita
+Churned,62,Male,false,0,92336,Fontana
+Churned,31,Male,false,0,92883,Corona
+Churned,30,Male,false,0,94130,San Francisco
+Churned,23,Female,false,0,96075,Paynes Creek
+Churned,54,Female,false,0,90402,Santa Monica
+Churned,24,Male,false,0,91010,Duarte
+Churned,42,Male,false,0,93066,Somis
+Churned,42,Female,false,0,93553,Pearblossom
+Churned,40,Female,false,0,95327,Jamestown
+Churned,26,Female,false,0,96140,Carnelian Bay
+Churned,38,Female,false,0,90716,Hawaiian Gardens
+Churned,68,Male,false,0,90621,Buena Park
+Churned,78,Male,false,0,95488,Westport
+Churned,73,Female,false,0,92029,Escondido
+Churned,75,Male,false,0,91108,San Marino
+Churned,72,Female,false,0,95497,The Sea Ranch
+Churned,21,Male,true,2,90631,La Habra
+Churned,26,Male,false,0,92122,San Diego
+Churned,49,Female,false,0,92518,March Air Reserve Base
+Churned,20,Female,false,0,93003,Ventura
+Churned,53,Male,false,0,94021,Loma Mar
+Churned,23,Female,false,0,90230,Culver City
+Churned,30,Male,false,0,93561,Tehachapi
+Churned,41,Male,false,0,92808,Anaheim
+Churned,47,Female,true,3,93429,Casmalia
+Churned,49,Male,false,0,92592,Temecula
+Churned,44,Male,false,0,95233,Hathaway Pines
+Churned,52,Male,true,3,95358,Modesto
+Churned,33,Male,false,0,95364,Pinecrest
+Churned,60,Female,false,0,95431,Eldridge
+Churned,42,Male,false,0,95715,Emigrant Gap
+Churned,62,Female,false,0,96071,Old Station
+Churned,54,Male,false,0,93606,Biola
+Churned,46,Male,false,0,94127,San Francisco
+Churned,51,Female,false,0,95132,San Jose
+Churned,71,Male,false,0,95126,San Jose
+Churned,68,Female,false,0,95323,Hickman
+Churned,72,Male,false,0,92126,San Diego
+Churned,72,Female,false,0,92104,San Diego
+Churned,61,Male,true,1,90028,Los Angeles
+Churned,37,Male,false,0,91723,Covina
+Churned,52,Male,false,0,92382,Running Springs
+Churned,28,Female,false,0,92503,Riverside
+Churned,49,Male,false,0,93552,Palmdale
+Churned,55,Female,false,0,93930,King City
+Churned,41,Male,false,0,92308,Apple Valley
+Churned,44,Male,false,0,94618,Oakland
+Churned,41,Male,true,3,95054,Santa Clara
+Churned,47,Male,false,0,96013,Burney
+Churned,47,Male,true,1,91208,Glendale
+Churned,64,Male,false,0,93023,Ojai
+Churned,32,Male,false,0,93224,Fellows
+Churned,22,Male,false,0,93631,Kingsburg
+Churned,27,Male,false,0,95237,Lockeford
+Churned,49,Male,false,0,95386,Waterford
+Churned,41,Female,false,0,94117,San Francisco
+Churned,43,Male,false,0,94555,Fremont
+Churned,25,Male,false,0,94568,Dublin
+Churned,29,Female,false,0,95553,Miranda
+Churned,40,Male,false,0,95693,Wilton
+Churned,54,Male,false,0,95694,Winters
+Churned,50,Female,false,0,95843,Antelope
+Churned,32,Male,false,0,95975,Rough And Ready
+Churned,27,Female,false,0,96015,Canby
+Churned,62,Male,true,3,91301,Agoura Hills
+Churned,65,Male,false,0,95466,Philo
+Churned,70,Female,false,0,95819,Sacramento
+Churned,79,Male,false,0,91007,Arcadia
+Churned,75,Female,false,0,92059,Pala
+Churned,78,Female,false,0,95348,Merced
+Churned,68,Female,false,0,95525,Blue Lake
+Churned,68,Female,false,0,95616,Davis
+Churned,73,Male,false,0,95139,San Jose
+Churned,21,Female,false,0,92121,San Diego
+Churned,47,Female,false,0,93247,Lindsay
+Churned,27,Male,false,0,94607,Oakland
+Churned,36,Female,false,0,95369,Snelling
+Churned,40,Female,false,0,92273,Seeley
+Churned,43,Female,false,0,93021,Moorpark
+Churned,21,Female,false,0,95818,Sacramento
+Churned,37,Male,false,0,91203,Glendale
+Churned,41,Female,false,0,92121,San Diego
+Churned,26,Female,false,0,94549,Lafayette
+Churned,27,Female,false,0,95338,Mariposa
+Churned,34,Male,false,0,94928,Rohnert Park
+Churned,50,Male,false,0,91205,Glendale
+Churned,76,Male,false,0,95222,Angels Camp
+Churned,74,Male,false,0,95678,Roseville
+Churned,79,Male,false,0,95993,Yuba City
+Churned,71,Male,false,0,91384,Castaic
+Churned,69,Female,false,0,96063,Mineral
+Churned,37,Female,false,0,93554,Randsburg
+Churned,37,Female,false,0,94131,San Francisco
+Churned,45,Female,false,0,95970,Princeton
+Churned,37,Male,false,0,90007,Los Angeles
+Churned,53,Male,false,0,91301,Agoura Hills
+Churned,21,Female,false,0,92139,San Diego
+Churned,55,Female,false,0,92333,Fawnskin
+Churned,37,Male,false,0,92374,Redlands
+Churned,36,Male,false,0,94110,San Francisco
+Churned,60,Male,false,0,95503,Eureka
+Churned,35,Female,false,0,95746,Granite Bay
+Churned,36,Female,false,0,90037,Los Angeles
+Churned,62,Male,false,0,91607,Valley Village
+Churned,25,Female,false,0,92592,Temecula
+Churned,33,Male,false,0,96130,Susanville
+Churned,38,Female,false,0,91324,Northridge
+Churned,25,Male,false,0,92505,Riverside
+Churned,62,Male,false,0,92865,Orange
+Churned,61,Female,false,0,93030,Oxnard
+Churned,48,Male,false,0,95460,Mendocino
+Churned,42,Female,false,0,95624,Elk Grove
+Churned,79,Male,false,0,92122,San Diego
+Churned,68,Female,false,0,92606,Irvine
+Churned,74,Male,false,0,93625,Fowler
+Churned,70,Female,false,0,94542,Hayward
+Churned,75,Female,false,0,93234,Huron
+Churned,74,Female,false,0,95426,Cobb
+Churned,70,Male,false,0,91107,Pasadena
+Churned,24,Female,false,0,91103,Pasadena
+Churned,21,Female,false,0,92122,San Diego
+Churned,52,Female,false,0,92377,Rialto
+Churned,25,Male,false,0,93641,Miramonte
+Churned,21,Male,false,0,93721,Fresno
+Churned,33,Female,false,0,94595,Walnut Creek
+Churned,23,Female,false,0,95006,Boulder Creek
+Churned,20,Male,false,0,95471,Rio Nido
+Churned,20,Male,false,0,95722,Meadow Vista
+Churned,50,Female,false,0,95728,Soda Springs
+Churned,35,Male,false,0,92117,San Diego
+Churned,29,Female,false,0,92117,San Diego
+Churned,20,Female,false,0,93003,Ventura
+Churned,22,Female,false,0,93526,Independence
+Churned,52,Male,false,0,95548,Klamath
+Churned,22,Male,false,0,95736,Weimar
+Churned,33,Male,false,0,92028,Fallbrook
+Churned,45,Female,false,0,96069,Oak Run
+Churned,25,Male,false,0,91789,Walnut
+Churned,59,Female,false,0,92113,San Diego
+Churned,47,Female,false,0,92282,White Water
+Churned,24,Male,false,0,92592,Temecula
+Churned,27,Male,false,0,95050,Santa Clara
+Churned,30,Male,false,0,95758,Elk Grove
+Churned,23,Female,false,0,90011,Los Angeles
+Churned,26,Female,false,0,92126,San Diego
+Churned,42,Male,false,0,92126,San Diego
+Churned,51,Female,false,0,95825,Sacramento
+Churned,68,Female,false,0,91764,Ontario
+Churned,65,Female,false,0,93606,Biola
+Churned,71,Female,false,0,94710,Berkeley
+Churned,65,Female,false,0,91502,Burbank
+Churned,73,Male,false,0,92117,San Diego
+Churned,74,Male,false,0,95127,San Jose
+Churned,73,Male,false,0,91401,Van Nuys
+Churned,77,Male,false,0,90240,Downey
+Churned,79,Female,false,0,92110,San Diego
+Churned,55,Female,false,0,92122,San Diego
+Churned,47,Female,false,0,92586,Sun City
+Churned,63,Male,false,0,93591,Palmdale
+Churned,30,Male,false,0,94553,Martinez
+Churned,34,Female,false,0,95550,Korbel
+Churned,30,Male,false,0,95828,Sacramento
+Churned,47,Female,false,0,95925,Challenge
+Churned,54,Male,false,0,90262,Lynwood
+Churned,61,Female,false,0,94709,Berkeley
+Churned,32,Male,false,0,95210,Stockton
+Churned,34,Male,false,0,91931,Guatay
+Churned,46,Female,false,0,92602,Irvine
+Churned,41,Female,false,0,93110,Santa Barbara
+Churned,38,Male,false,0,93618,Dinuba
+Churned,57,Female,false,0,94571,Rio Vista
+Churned,37,Male,false,0,90603,Whittier
+Churned,35,Female,false,0,92624,Capistrano Beach
+Churned,47,Male,false,0,92833,Fullerton
+Churned,53,Female,false,0,96025,Dunsmuir
+Churned,40,Female,false,0,90069,West Hollywood
+Churned,31,Male,false,0,91501,Burbank
+Churned,47,Female,false,0,91977,Spring Valley
+Churned,72,Female,false,0,92557,Moreno Valley
+Churned,71,Male,false,0,94512,Birds Landing
+Churned,76,Male,false,0,92130,San Diego
+Churned,65,Male,false,0,95587,Piercy
+Churned,65,Female,false,0,94121,San Francisco
+Churned,65,Female,false,0,95209,Stockton
+Churned,66,Female,false,0,95651,Lotus
+Churned,34,Female,true,1,90061,Los Angeles
+Churned,38,Female,false,0,93535,Lancaster
+Churned,27,Male,false,0,95838,Sacramento
+Churned,59,Male,false,0,96028,Fall River Mills
+Churned,53,Female,false,0,96068,Nubieber
+Churned,41,Female,false,0,90058,Los Angeles
+Churned,49,Female,true,1,93402,Los Osos
+Churned,55,Male,false,0,93906,Salinas
+Churned,39,Male,false,0,95350,Modesto
+Churned,41,Male,false,0,95365,Planada
+Churned,47,Male,true,2,90621,Buena Park
+Churned,35,Male,false,0,91403,Sherman Oaks
+Churned,62,Male,false,0,92130,San Diego
+Churned,42,Male,false,0,92368,Oro Grande
+Churned,40,Male,false,0,95329,La Grange
+Churned,26,Female,false,0,96039,Happy Camp
+Churned,38,Male,false,0,90027,Los Angeles
+Churned,57,Female,false,0,90038,Los Angeles
+Churned,28,Male,false,0,95662,Orangevale
+Churned,56,Male,false,0,91335,Reseda
+Churned,58,Female,false,0,91764,Ontario
+Churned,64,Male,true,2,92259,Ocotillo
+Churned,70,Female,false,0,92122,San Diego
+Churned,68,Female,false,0,94304,Palo Alto
+Churned,74,Male,false,0,95511,Alderpoint
+Churned,80,Male,false,0,90640,Montebello
+Churned,75,Female,false,0,96088,Shingletown
+Churned,66,Female,false,0,90001,Los Angeles
+Churned,68,Female,false,0,95439,Fulton
+Churned,68,Female,false,0,92243,El Centro
+Churned,21,Male,false,0,95062,Santa Cruz
+Churned,50,Male,false,0,91761,Ontario
+Churned,27,Male,false,0,91768,Pomona
+Churned,28,Male,false,0,93035,Oxnard
+Churned,25,Male,false,0,95212,Stockton
+Churned,31,Male,false,0,96110,Eagleville
+Churned,25,Female,false,0,90255,Huntington Park
+Churned,40,Male,true,1,92314,Big Bear City
+Churned,56,Female,false,0,93523,Edwards
+Churned,28,Female,true,2,94576,Deer Park
+Churned,40,Female,false,0,95971,Quincy
+Churned,39,Male,false,0,92676,Silverado
+Churned,22,Female,false,0,93212,Corcoran
+Churned,34,Male,true,1,94112,San Francisco
+Churned,49,Male,false,0,95354,Modesto
+Churned,24,Male,false,0,96086,Seiad Valley
+Churned,68,Male,false,0,91748,Rowland Heights
+Churned,75,Male,false,0,93208,Camp Nelson
+Churned,74,Male,false,0,96074,Paskenta
+Churned,77,Female,false,0,90028,Los Angeles
+Churned,76,Male,false,0,96002,Redding
+Churned,21,Male,false,0,92356,Lucerne Valley
+Churned,54,Female,false,0,94014,Daly City
+Churned,26,Female,false,0,94596,Walnut Creek
+Churned,53,Male,false,0,94606,Oakland
+Churned,41,Female,false,0,95493,Witter Springs
+Churned,21,Male,false,0,95914,Bangor
+Churned,63,Female,false,0,95202,Stockton
+Churned,42,Female,true,3,95251,Vallecito
+Churned,42,Male,false,0,95567,Smith River
+Churned,52,Male,false,0,94304,Palo Alto
+Churned,28,Female,false,0,95405,Santa Rosa
+Churned,37,Male,false,0,92028,Fallbrook
+Churned,43,Male,true,2,92582,San Jacinto
+Churned,43,Female,false,0,95527,Burnt Ranch
+Churned,36,Male,false,0,95742,Rancho Cordova
+Churned,57,Female,false,0,96136,Wendel
+Churned,46,Female,true,2,96141,Homewood
+Churned,44,Male,true,2,90805,Long Beach
+Churned,59,Female,false,0,91306,Winnetka
+Churned,57,Male,true,1,92036,Julian
+Churned,78,Female,true,1,91605,North Hollywood
+Churned,70,Female,false,0,96006,Adin
+Churned,68,Female,false,0,95650,Loomis
+Churned,65,Male,false,0,96052,Lewiston
+Churned,74,Female,false,0,91731,El Monte
+Churned,67,Female,false,0,92397,Wrightwood
+Churned,68,Female,false,0,93664,Shaver Lake
+Churned,58,Male,false,0,93923,Carmel
+Churned,44,Male,false,0,94903,San Rafael
+Churned,19,Female,false,0,95645,Knights Landing
+Churned,35,Female,false,0,95864,Sacramento
+Churned,52,Female,false,0,92845,Garden Grove
+Churned,58,Male,false,0,93624,Five Points
+Churned,48,Female,false,0,95131,San Jose
+Churned,44,Female,false,0,95348,Merced
+Churned,36,Female,false,0,92028,Fallbrook
+Churned,63,Male,false,0,93012,Camarillo
+Churned,64,Male,false,0,93262,Sequoia National Park
+Churned,25,Female,false,0,95409,Santa Rosa
+Churned,58,Female,false,0,91739,Rancho Cucamonga
+Churned,40,Male,false,0,92126,San Diego
+Churned,57,Female,false,0,92404,San Bernardino
+Churned,56,Female,true,1,92660,Newport Beach
+Churned,24,Male,false,0,95385,Vernalis
+Churned,36,Male,false,0,95558,Petrolia
+Churned,64,Male,false,0,95619,Diamond Springs
+Churned,65,Male,false,0,91722,Covina
+Churned,67,Female,false,0,92027,Escondido
+Churned,80,Female,false,0,93621,Dunlap
+Churned,78,Male,false,0,92648,Huntington Beach
+Churned,68,Female,false,0,93638,Madera
+Churned,37,Male,false,0,90003,Los Angeles
+Churned,34,Female,true,3,90292,Marina Del Rey
+Churned,26,Female,true,1,91001,Altadena
+Churned,32,Male,false,0,95002,Alviso
+Churned,51,Female,false,0,95134,San Jose
+Churned,30,Female,false,0,95367,Riverbank
+Churned,36,Female,false,0,95683,Sloughhouse
+Churned,44,Male,false,0,94523,Pleasant Hill
+Churned,51,Male,false,0,95428,Covelo
+Churned,37,Female,false,0,95925,Challenge
+Churned,42,Female,false,0,90505,Torrance
+Churned,23,Male,false,0,90814,Long Beach
+Churned,59,Female,false,0,92231,Calexico
+Churned,33,Female,false,0,92503,Riverside
+Churned,21,Male,false,0,94062,Redwood City
+Churned,22,Female,false,0,95242,Lodi
+Churned,20,Male,false,0,92109,San Diego
+Churned,21,Female,false,0,92109,San Diego
+Churned,31,Female,true,2,93426,Bradley
+Churned,77,Female,false,0,92544,Hemet
+Churned,79,Male,false,0,92239,Desert Center
+Churned,75,Male,false,0,94970,Stinson Beach
+Churned,73,Female,false,0,95417,Branscomb
+Churned,75,Female,false,0,95838,Sacramento
+Churned,66,Female,false,0,92356,Lucerne Valley
+Churned,68,Male,false,0,92590,Temecula
+Churned,73,Male,false,0,94525,Crockett
+Churned,78,Male,false,0,94925,Corte Madera
+Churned,68,Male,false,0,90272,Pacific Palisades
+Churned,73,Male,false,0,92109,San Diego
+Churned,79,Female,false,0,93528,Johannesburg
+Churned,70,Male,false,0,94801,Richmond
+Churned,74,Male,false,0,94939,Larkspur
+Churned,32,Female,true,3,90255,Huntington Park
+Churned,28,Female,false,0,92806,Anaheim
+Churned,30,Female,false,0,93219,Earlimart
+Churned,47,Female,false,0,95409,Santa Rosa
+Churned,30,Female,false,0,95519,Mckinleyville
+Churned,64,Female,false,0,94590,Vallejo
+Churned,24,Male,false,0,94705,Berkeley
+Churned,34,Female,false,0,95135,San Jose
+Churned,19,Male,false,0,90023,Los Angeles
+Churned,47,Male,false,0,93201,Alpaugh
+Churned,36,Female,false,0,93401,San Luis Obispo
+Churned,63,Male,false,0,93605,Big Creek
+Churned,49,Male,false,0,93901,Salinas
+Churned,21,Female,true,3,94402,San Mateo
+Churned,63,Male,false,0,94535,Travis Afb
+Churned,33,Male,false,0,95537,Fields Landing
+Churned,28,Male,false,0,93235,Ivanhoe
+Churned,47,Male,false,0,94014,Daly City
+Churned,57,Male,false,0,94973,Woodacre
+Churned,61,Male,false,0,95111,San Jose
+Churned,31,Male,false,0,95612,Clarksburg
+Churned,44,Male,false,0,91107,Pasadena
+Churned,55,Female,true,3,91792,West Covina
+Churned,27,Male,false,0,92027,Escondido
+Churned,75,Female,false,0,95653,Madison
+Churned,69,Male,false,0,95949,Grass Valley
+Churned,80,Male,false,0,95303,Ballico
+Churned,75,Male,false,0,91605,North Hollywood
+Churned,80,Male,false,0,92129,San Diego
+Churned,65,Female,false,0,94514,Byron
+Churned,23,Female,false,0,92273,Seeley
+Churned,55,Male,false,0,92563,Murrieta
+Churned,48,Male,false,0,93263,Shafter
+Churned,19,Female,false,0,95831,Sacramento
+Churned,28,Male,false,0,93706,Fresno
+Churned,33,Male,false,0,90254,Hermosa Beach
+Churned,36,Female,false,0,92262,Palm Springs
+Churned,26,Female,false,0,93204,Avenal
+Churned,26,Male,false,0,95821,Sacramento
+Churned,57,Female,false,0,90221,Compton
+Churned,31,Male,false,0,92109,San Diego
+Churned,27,Male,false,0,90504,Torrance
+Churned,65,Female,false,0,95668,Pleasant Grove
+Churned,66,Female,false,0,90620,Buena Park
+Churned,67,Male,false,0,95982,Sutter
+Churned,80,Female,false,0,95110,San Jose
+Churned,75,Male,false,0,95728,Soda Springs
+Churned,68,Female,false,0,92126,San Diego
+Churned,80,Female,false,0,90605,Whittier
+Churned,38,Male,true,1,90015,Los Angeles
+Churned,20,Female,false,0,93110,Santa Barbara
+Churned,45,Male,false,0,93703,Fresno
+Churned,36,Male,false,0,95843,Antelope
+Churned,51,Female,false,0,92130,San Diego
+Churned,55,Male,false,0,92130,San Diego
+Churned,23,Female,false,0,92130,San Diego
+Churned,35,Male,false,0,93221,Exeter
+Churned,38,Female,false,0,93553,Pearblossom
+Churned,46,Female,false,0,94703,Berkeley
+Churned,20,Male,false,0,95363,Patterson
+Churned,19,Female,false,0,90068,Los Angeles
+Churned,39,Male,false,0,90260,Lawndale
+Churned,20,Male,false,0,90804,Long Beach
+Churned,39,Female,false,0,92647,Huntington Beach
+Churned,20,Female,false,0,95385,Vernalis
+Churned,56,Male,false,0,95567,Smith River
+Churned,41,Male,false,0,95688,Vacaville
+Churned,26,Male,false,0,92126,San Diego
+Churned,27,Female,false,0,93312,Bakersfield
+Churned,26,Female,false,0,94901,San Rafael
+Churned,37,Male,false,0,95420,Caspar
+Churned,62,Female,false,0,95494,Yorkville
+Churned,30,Female,false,0,95628,Fair Oaks
+Churned,46,Female,false,0,90710,Harbor City
+Churned,77,Female,false,0,92122,San Diego
+Churned,69,Female,false,0,92129,San Diego
+Churned,75,Male,false,0,94704,Berkeley
+Churned,73,Female,false,0,95019,Freedom
+Churned,73,Female,false,0,95618,Davis
+Churned,78,Female,false,0,95742,Rancho Cordova
+Churned,76,Female,false,0,95959,Nevada City
+Churned,80,Female,false,0,92130,San Diego
+Churned,67,Male,false,0,92563,Murrieta
+Churned,70,Female,false,0,95610,Citrus Heights
+Churned,73,Female,false,0,95658,Newcastle
+Churned,80,Male,false,0,92592,Temecula
+Churned,72,Female,false,0,93221,Exeter
+Churned,74,Female,false,0,95602,Auburn
+Churned,71,Female,false,0,96091,Trinity Center
+Churned,69,Male,false,0,92109,San Diego
+Churned,79,Male,false,0,92027,Escondido
+Churned,27,Male,false,0,90029,Los Angeles
+Churned,32,Female,true,2,90056,Los Angeles
+Churned,29,Female,false,0,92129,San Diego
+Churned,40,Female,false,0,94024,Los Altos
+Churned,43,Male,false,0,95445,Gualala
+Churned,21,Female,false,0,92130,San Diego
+Churned,27,Female,false,0,92028,Fallbrook
+Churned,63,Male,true,2,92610,Foothill Ranch
+Churned,56,Female,false,0,92705,Santa Ana
+Churned,21,Female,false,0,93208,Camp Nelson
+Churned,55,Female,false,0,93618,Dinuba
+Churned,57,Male,false,0,95651,Lotus
+Churned,36,Female,false,0,95936,Downieville
+Churned,53,Male,false,0,95950,Grimes
+Churned,59,Female,false,0,96063,Mineral
+Churned,28,Male,false,0,90043,Los Angeles
+Churned,44,Male,false,0,90049,Los Angeles
+Churned,36,Female,true,1,90062,Los Angeles
+Churned,59,Female,false,0,92227,Brawley
+Churned,21,Female,false,0,92676,Silverado
+Churned,36,Male,false,0,92780,Tustin
+Churned,57,Female,false,0,92831,Fullerton
+Churned,41,Male,false,0,93040,Piru
+Churned,23,Female,false,0,93222,Frazier Park
+Churned,42,Male,true,1,93550,Palmdale
+Churned,42,Male,false,0,95116,San Jose
+Churned,51,Male,false,0,95232,Glencoe
+Churned,21,Female,false,0,95595,Zenia
+Churned,28,Female,false,0,95835,Sacramento
+Churned,48,Female,false,0,95951,Hamilton City
+Churned,49,Male,false,0,95966,Oroville
+Churned,23,Female,false,0,90041,Los Angeles
+Churned,25,Male,false,0,90501,Torrance
+Churned,27,Female,false,0,91744,La Puente
+Churned,38,Male,false,0,92126,San Diego
+Churned,56,Male,false,0,92536,Aguanga
+Churned,48,Male,false,0,93060,Santa Paula
+Churned,56,Male,false,0,93603,Badger
+Churned,53,Female,false,0,93628,Hume
+Churned,43,Male,false,0,94114,San Francisco
+Churned,44,Female,false,0,94122,San Francisco
+Churned,42,Male,false,0,94569,Port Costa
+Churned,20,Female,false,0,95220,Acampo
+Churned,53,Male,false,0,95330,Lathrop
+Churned,42,Male,false,0,95379,Tuolumne
+Churned,43,Female,true,2,95776,Woodland
+Churned,53,Male,false,0,95984,Twain
+Churned,31,Female,false,0,92028,Fallbrook
+Churned,25,Male,false,0,92121,San Diego
+Churned,49,Male,false,0,92121,San Diego
+Churned,39,Male,false,0,92121,San Diego
+Churned,44,Male,false,0,92121,San Diego
+Churned,28,Female,false,0,92251,Imperial
+Churned,66,Male,false,0,91024,Sierra Madre
+Churned,71,Male,false,0,92122,San Diego
+Churned,66,Female,false,0,92122,San Diego
+Churned,80,Female,false,0,92571,Perris
+Churned,78,Female,false,0,92887,Yorba Linda
+Churned,80,Male,false,0,93201,Alpaugh
+Churned,69,Male,false,0,94108,San Francisco
+Churned,75,Female,false,0,94130,San Francisco
+Churned,77,Male,false,0,94558,Napa
+Churned,77,Male,false,0,96084,Round Mountain
+Churned,78,Male,false,0,92117,San Diego
+Churned,68,Female,false,0,92122,San Diego
+Churned,67,Male,false,0,94901,San Rafael
+Churned,69,Male,false,0,95372,Soulsbyville
+Churned,75,Female,false,0,95920,Butte City
+Churned,72,Male,false,0,91978,Spring Valley
+Churned,77,Male,false,0,92373,Redlands
+Churned,80,Female,false,0,92508,Riverside
+Churned,75,Female,false,0,93218,Ducor
+Churned,67,Male,false,0,93551,Palmdale
+Churned,72,Male,false,0,90044,Los Angeles
+Churned,69,Male,false,0,93254,New Cuyama
+Churned,73,Female,false,0,93445,Oceano
+Churned,80,Male,false,0,93954,San Lucas
+Churned,78,Male,false,0,94553,Martinez
+Churned,68,Male,false,0,95941,Forbestown
+Churned,73,Male,false,0,91948,Mount Laguna
+Churned,27,Female,false,0,90704,Avalon
+Churned,24,Female,false,0,92122,San Diego
+Churned,58,Female,false,0,92338,Ludlow
+Churned,61,Male,false,0,92358,Lytle Creek
+Churned,60,Female,false,0,92371,Phelan
+Churned,29,Male,false,0,92648,Huntington Beach
+Churned,51,Female,false,0,94402,San Mateo
+Churned,42,Female,false,0,94972,Valley Ford
+Churned,62,Female,false,0,95351,Modesto
+Churned,58,Male,false,0,95356,Modesto
+Churned,23,Male,false,0,95420,Caspar
+Churned,61,Male,false,0,92130,San Diego
+Churned,32,Male,false,0,90012,Los Angeles
+Churned,44,Male,false,0,90013,Los Angeles
+Churned,47,Female,false,0,90292,Marina Del Rey
+Churned,37,Female,false,0,92117,San Diego
+Churned,58,Male,false,0,92117,San Diego
+Churned,26,Male,false,0,92249,Heber
+Churned,27,Female,false,0,92253,La Quinta
+Churned,37,Female,false,0,92551,Moreno Valley
+Churned,42,Male,false,0,93103,Santa Barbara
+Churned,46,Male,false,0,93206,Buttonwillow
+Churned,46,Male,false,0,94043,Mountain View
+Churned,41,Female,false,0,94535,Travis Afb
+Churned,35,Male,false,0,95605,West Sacramento
+Churned,22,Female,false,0,90057,Los Angeles
+Churned,57,Female,false,0,90071,Los Angeles
+Churned,57,Female,false,0,91752,Mira Loma
+Churned,37,Male,false,0,92057,Oceanside
+Churned,64,Male,false,0,92128,San Diego
+Churned,35,Male,false,0,92341,Green Valley Lake
+Churned,27,Female,false,0,92626,Costa Mesa
+Churned,20,Female,false,0,92869,Orange
+Churned,42,Female,false,0,92882,Corona
+Churned,60,Male,false,0,93280,Wasco
+Churned,20,Female,false,0,93601,Ahwahnee
+Churned,37,Male,false,0,94514,Byron
+Churned,62,Male,false,0,94539,Fremont
+Churned,53,Male,false,0,94565,Pittsburg
+Churned,47,Male,false,0,95060,Santa Cruz
+Churned,45,Female,false,0,95227,Clements
+Churned,34,Female,false,0,95326,Hughson
+Churned,64,Female,false,0,95380,Turlock
+Churned,25,Male,false,0,95403,Santa Rosa
+Churned,32,Female,false,0,95442,Glen Ellen
+Churned,52,Female,false,0,95470,Redwood Valley
+Churned,46,Male,false,0,92028,Fallbrook
+Churned,55,Male,false,0,96140,Carnelian Bay
+Churned,62,Male,false,0,92130,San Diego
+Churned,44,Male,false,0,92121,San Diego
+Churned,57,Female,false,0,90071,Los Angeles
+Churned,53,Male,false,0,91042,Tujunga
+Churned,60,Male,false,0,92109,San Diego
+Churned,43,Female,false,0,92109,San Diego
+Churned,25,Male,false,0,92109,San Diego
+Churned,64,Male,false,0,92126,San Diego
+Churned,30,Male,false,0,92126,San Diego
+Churned,47,Male,false,0,95364,Pinecrest
+Churned,47,Female,false,0,95971,Quincy
+Churned,41,Female,false,0,95983,Taylorsville
+Churned,19,Female,false,0,90026,Los Angeles
+Churned,60,Male,false,0,90807,Long Beach
+Churned,34,Female,false,0,91356,Tarzana
+Churned,58,Female,false,0,91601,North Hollywood
+Churned,66,Male,false,0,92706,Santa Ana
+Churned,79,Male,false,0,94015,Daly City
+Churned,67,Female,false,0,95110,San Jose
+Churned,77,Female,false,0,96080,Red Bluff
+Churned,69,Male,false,0,96093,Weaverville
+Churned,68,Female,true,3,92028,Fallbrook
+Churned,68,Male,false,0,92123,San Diego
+Churned,29,Male,false,0,90024,Los Angeles
+Churned,54,Female,false,0,92122,San Diego
+Churned,31,Male,false,0,92661,Newport Beach
+Churned,43,Male,false,0,95620,Dixon
+Churned,52,Male,false,0,95912,Arbuckle
+Churned,55,Male,false,0,92154,San Diego
+Churned,60,Male,false,0,94708,Berkeley
+Churned,46,Female,false,0,96137,Westwood
+Churned,60,Female,false,0,94030,Millbrae
+Churned,41,Female,false,0,94105,San Francisco
+Churned,44,Female,false,0,96008,Bella Vista
+Churned,26,Female,false,0,92027,Escondido
+Churned,42,Female,false,0,90602,Whittier
+Churned,42,Female,false,0,93668,Tranquillity
+Churned,64,Female,false,0,95003,Aptos
+Churned,60,Female,false,0,92121,San Diego
+Churned,43,Female,false,0,91108,San Marino
+Churned,65,Male,false,0,95923,Canyon Dam
+Churned,68,Male,false,0,92130,San Diego
+Churned,67,Male,false,0,91790,West Covina
+Churned,76,Female,false,0,94019,Half Moon Bay
+Churned,68,Male,false,0,95017,Davenport
+Churned,65,Male,false,0,95683,Sloughhouse
+Churned,32,Male,false,0,92410,San Bernardino
+Churned,23,Male,false,0,92129,San Diego
+Churned,51,Male,false,0,92129,San Diego
+Churned,36,Male,false,0,94086,Sunnyvale
+Churned,44,Male,false,0,95563,Salyer
+Churned,59,Male,false,0,90062,Los Angeles
+Churned,60,Male,false,0,90704,Avalon
+Churned,51,Male,false,0,92117,San Diego
+Churned,39,Female,false,0,92117,San Diego
+Churned,54,Male,false,0,93560,Rosamond
+Churned,28,Male,false,0,93924,Carmel Valley
+Churned,61,Male,true,6,94521,Concord
+Churned,32,Female,false,0,95547,Hydesville
+Churned,54,Male,false,0,91030,South Pasadena
+Churned,42,Female,true,2,94567,Pope Valley
+Churned,37,Female,false,0,95618,Davis
+Churned,56,Male,false,0,95630,Folsom
+Churned,47,Male,false,0,90713,Lakewood
+Churned,19,Female,false,0,92124,San Diego
+Churned,49,Male,false,0,93244,Lemon Cove
+Churned,64,Female,true,2,93436,Lompoc
+Churned,63,Female,false,0,94040,Mountain View
+Churned,29,Male,false,0,95334,Livingston
+Churned,56,Female,false,0,91710,Chino
+Churned,51,Male,false,0,92241,Desert Hot Springs
+Churned,69,Male,false,0,90813,Long Beach
+Churned,69,Male,false,0,90501,Torrance
+Churned,76,Female,false,0,95313,Crows Landing
+Churned,75,Female,false,0,95628,Fair Oaks
+Churned,73,Female,false,0,94608,Emeryville
+Churned,65,Female,false,0,90706,Bellflower
+Churned,71,Male,false,0,91360,Thousand Oaks
+Churned,32,Male,true,4,90804,Long Beach
+Churned,29,Female,false,0,91207,Glendale
+Churned,46,Female,false,0,92117,San Diego
+Churned,44,Female,false,0,93673,Traver
+Churned,44,Male,false,0,95546,Hoopa
+Churned,45,Female,false,0,96024,Douglas City
+Churned,55,Male,false,0,91104,Pasadena
+Churned,58,Male,false,0,92109,San Diego
+Churned,36,Male,false,0,95404,Santa Rosa
+Churned,72,Female,true,1,90660,Pico Rivera
+Churned,71,Male,false,0,93928,Jolon
+Churned,65,Female,false,0,93541,Lee Vining
+Churned,69,Female,false,0,92241,Desert Hot Springs
+Churned,69,Female,false,0,95388,Winton
+Churned,73,Female,false,0,91702,Azusa
+Churned,74,Male,false,0,96019,Shasta Lake
+Churned,74,Male,false,0,91011,La Canada Flintridge
+Churned,54,Female,false,0,91202,Glendale
+Churned,52,Male,false,0,92122,San Diego
+Churned,32,Female,false,0,92337,Fontana
+Churned,44,Female,false,0,95695,Woodland
+Churned,25,Female,false,0,92211,Palm Desert
+Churned,30,Female,false,0,93205,Bodfish
+Churned,27,Female,false,0,93465,Templeton
+Churned,44,Male,false,0,93722,Fresno
+Churned,24,Female,false,0,95204,Stockton
+Churned,43,Male,false,0,92805,Anaheim
+Churned,38,Female,false,0,93040,Piru
+Churned,25,Female,false,0,96017,Castella
+Churned,51,Male,false,0,90802,Long Beach
+Churned,73,Male,false,0,94550,Livermore
+Churned,72,Female,false,0,90254,Hermosa Beach
+Churned,79,Male,false,0,93101,Santa Barbara
+Churned,66,Male,false,0,95039,Moss Landing
+Churned,73,Female,false,0,90232,Culver City
+Churned,68,Female,false,0,95460,Mendocino
+Churned,74,Male,false,0,90732,San Pedro
+Churned,69,Female,false,0,95829,Sacramento
+Churned,28,Male,false,0,95568,Somes Bar
+Churned,39,Female,false,0,96024,Douglas City
+Churned,41,Female,false,0,90023,Los Angeles
+Churned,63,Female,false,0,93202,Armona
+Churned,56,Female,false,0,94129,San Francisco
+Churned,21,Male,false,0,94556,Moraga
+Churned,45,Female,false,0,95623,El Dorado
+Churned,21,Female,true,2,93528,Johannesburg
+Churned,56,Male,true,3,95123,San Jose
+Churned,54,Male,false,0,96125,Sierra City
+Churned,36,Female,false,0,91730,Rancho Cucamonga
+Churned,77,Male,false,0,91732,El Monte
+Churned,77,Male,false,0,93101,Santa Barbara
+Churned,77,Male,false,0,93444,Nipomo
+Churned,73,Male,false,0,95468,Point Arena
+Churned,78,Female,false,0,95258,Woodbridge
+Churned,51,Male,true,1,90041,Los Angeles
+Churned,20,Female,false,0,91773,San Dimas
+Churned,57,Female,false,0,93204,Avenal
+Churned,50,Female,false,0,95536,Ferndale
+Churned,34,Male,false,0,92130,San Diego
+Churned,55,Female,false,0,91361,Westlake Village
+Churned,48,Male,false,0,95714,Dutch Flat
+Churned,23,Male,false,0,90405,Santa Monica
+Churned,19,Female,false,0,91910,Chula Vista
+Churned,25,Female,false,0,95444,Graton
+Churned,62,Male,false,0,95547,Hydesville
+Churned,45,Female,false,0,91502,Burbank
+Churned,67,Male,false,0,95032,Los Gatos
+Churned,66,Female,false,0,90255,Huntington Park
+Churned,40,Male,true,1,91504,Burbank
+Churned,32,Male,false,0,95255,West Point
+Churned,57,Male,false,0,91207,Glendale
+Churned,54,Female,false,0,91754,Monterey Park
+Churned,35,Male,false,0,92305,Angelus Oaks
+Churned,63,Female,false,0,92408,San Bernardino
+Churned,52,Male,false,0,94005,Brisbane
+Churned,51,Female,false,0,94574,Saint Helena
+Churned,47,Male,false,0,94965,Sausalito
+Churned,44,Male,false,0,95045,San Juan Bautista
+Churned,64,Male,false,0,92120,San Diego
+Churned,29,Female,false,0,92610,Foothill Ranch
+Churned,40,Male,false,0,92625,Corona Del Mar
+Churned,34,Male,false,0,95935,Dobbins
+Churned,22,Male,false,0,92028,Fallbrook
+Churned,80,Female,true,1,90602,Whittier
+Churned,80,Female,false,0,92274,Thermal
+Churned,78,Female,false,0,91381,Stevenson Ranch
+Churned,76,Female,false,0,92509,Riverside
+Churned,76,Male,false,0,94063,Redwood City
+Churned,19,Female,true,2,90005,Los Angeles
+Churned,39,Female,true,2,91381,Stevenson Ranch
+Churned,50,Male,false,0,92707,Santa Ana
+Churned,58,Female,false,0,94002,Belmont
+Churned,64,Female,false,0,94960,San Anselmo
+Churned,40,Male,false,0,95361,Oakdale
+Churned,63,Female,false,0,90808,Long Beach
+Churned,30,Male,false,0,95635,Greenwood
+Churned,32,Female,false,0,95659,Nicolaus
+Churned,21,Male,false,0,93306,Bakersfield
+Churned,57,Male,false,0,92627,Costa Mesa
+Churned,75,Female,false,0,93277,Visalia
+Churned,68,Female,false,0,92114,San Diego
+Churned,53,Female,false,0,95360,Newman
+Churned,25,Female,false,0,92173,San Ysidro
+Churned,36,Female,false,0,94596,Walnut Creek
+Churned,44,Female,false,0,94611,Oakland
+Churned,35,Female,false,0,90058,Los Angeles
+Churned,20,Female,false,0,92126,San Diego
+Churned,31,Female,false,0,94080,South San Francisco
+Churned,76,Male,false,0,92122,San Diego
+Churned,77,Male,false,0,96052,Lewiston
+Churned,65,Male,false,0,92625,Corona Del Mar
+Churned,74,Female,false,0,94519,Concord
+Churned,76,Male,false,0,91331,Pacoima
+Churned,73,Male,false,0,91354,Valencia
+Churned,30,Male,false,0,91768,Pomona
+Churned,30,Male,false,0,92122,San Diego
+Churned,34,Female,false,0,95346,Mi Wuk Village
+Churned,39,Male,false,0,90066,Los Angeles
+Churned,23,Female,false,0,91351,Canyon Country
+Churned,38,Male,false,0,91411,Van Nuys
+Churned,54,Female,false,0,95120,San Jose
+Churned,36,Male,false,0,94960,San Anselmo
+Churned,43,Male,false,0,92411,San Bernardino
+Churned,54,Male,false,0,96037,Greenview
+Churned,21,Female,false,0,90036,Los Angeles
+Churned,73,Female,false,0,93022,Oak View
+Churned,76,Female,false,0,95006,Boulder Creek
+Churned,35,Male,false,0,95567,Smith River
+Churned,23,Male,false,0,95624,Elk Grove
+Churned,63,Male,false,0,95625,Elmira
+Churned,26,Female,false,0,90712,Lakewood
+Churned,64,Female,false,0,92117,San Diego
+Churned,55,Female,true,1,90004,Los Angeles
+Churned,80,Female,false,0,93426,Bradley
+Churned,70,Female,false,0,92570,Perris
+Churned,79,Female,false,0,94956,Point Reyes Station
+Churned,67,Female,false,0,95367,Riverbank
+Churned,71,Male,false,0,91801,Alhambra
+Churned,51,Female,false,0,95642,Jackson
+Churned,42,Female,false,0,95984,Twain
+Churned,35,Female,false,0,90037,Los Angeles
+Churned,50,Male,false,0,90250,Hawthorne
+Churned,56,Male,false,0,92201,Indio
+Churned,42,Female,false,0,93013,Carpinteria
+Churned,39,Male,false,0,95202,Stockton
+Churned,25,Male,false,0,95226,Campo Seco
+Churned,58,Male,false,0,95423,Clearlake Oaks
+Churned,22,Female,false,0,94572,Rodeo
+Churned,76,Female,false,0,94566,Pleasanton
+Churned,71,Male,false,0,94533,Fairfield
+Churned,76,Male,false,0,91423,Sherman Oaks
+Churned,49,Male,false,0,92548,Homeland
+Churned,30,Female,false,0,94546,Castro Valley
+Churned,28,Male,false,0,95815,Sacramento
+Churned,50,Female,false,0,90277,Redondo Beach
+Churned,55,Male,false,0,94805,Richmond
+Churned,59,Male,false,0,95637,Guinda
+Churned,56,Male,false,0,93427,Buellton
+Churned,52,Male,false,0,95642,Jackson
+Churned,61,Male,false,0,92126,San Diego
+Churned,54,Male,false,0,93206,Buttonwillow
+Churned,34,Male,true,1,95642,Jackson
+Churned,77,Male,false,0,92122,San Diego
+Churned,79,Female,false,0,92592,Temecula
+Churned,60,Male,false,0,91766,Pomona
+Churned,47,Male,false,0,95368,Salida
+Churned,62,Male,false,0,96047,Igo
+Churned,31,Male,false,0,95641,Isleton
+Churned,47,Female,false,0,92592,Temecula
+Churned,61,Male,false,0,93563,Valyermo
+Churned,33,Male,false,0,95553,Miranda
+Churned,59,Female,false,0,96091,Trinity Center
+Churned,55,Male,false,0,90048,Los Angeles
+Churned,60,Female,false,0,90059,Los Angeles
+Churned,68,Female,false,0,96148,Tahoe Vista
+Churned,80,Male,false,0,91915,Chula Vista
+Churned,66,Male,false,0,93210,Coalinga
+Churned,61,Male,false,0,92118,Coronado
+Churned,64,Female,false,0,92679,Trabuco Canyon
+Churned,62,Female,false,0,92592,Temecula
+Churned,50,Female,false,0,95431,Eldridge
+Churned,53,Female,false,0,95662,Orangevale
+Churned,60,Female,false,0,95831,Sacramento
+Churned,45,Female,false,0,95937,Dunnigan
+Churned,34,Male,false,0,95412,Annapolis
+Churned,75,Female,false,0,95551,Loleta
+Churned,53,Female,false,0,92843,Garden Grove
+Churned,47,Female,true,2,92027,Escondido
+Churned,64,Female,false,0,92320,Calimesa
+Churned,62,Male,false,0,95823,Sacramento
+Churned,21,Female,false,0,91367,Woodland Hills
+Churned,61,Male,false,0,92868,Orange
+Churned,76,Female,true,2,90720,Los Alamitos
+Churned,71,Male,false,0,92397,Wrightwood
+Churned,24,Male,false,0,92592,Temecula
+Churned,27,Male,false,0,93638,Madera
+Churned,39,Female,false,0,94060,Pescadero
+Churned,27,Female,false,0,95669,Plymouth
+Churned,47,Male,false,0,91326,Porter Ranch
+Churned,45,Female,false,0,92586,Sun City
+Churned,22,Female,false,0,93465,Templeton
+Churned,58,Female,false,0,95030,Los Gatos
+Churned,24,Female,false,0,95315,Delhi
+Churned,50,Female,false,0,95674,Rio Oso
+Churned,48,Female,false,0,90010,Los Angeles
+Churned,47,Female,false,0,92109,San Diego
+Churned,30,Female,false,0,95355,Modesto
+Churned,75,Male,false,0,93933,Marina
+Churned,75,Male,false,0,92028,Fallbrook
+Churned,58,Male,false,0,95350,Modesto
+Churned,39,Male,false,0,95635,Greenwood
+Churned,57,Female,false,0,90014,Los Angeles
+Churned,54,Female,false,0,90265,Malibu
+Churned,61,Male,false,0,91423,Sherman Oaks
+Churned,53,Female,false,0,95903,Beale Afb
+Churned,32,Female,false,0,95562,Rio Dell
+Churned,45,Male,false,0,93501,Mojave
+Churned,30,Female,false,0,93955,Seaside
+Churned,52,Female,false,0,94115,San Francisco
+Churned,79,Female,false,0,94027,Atherton
+Churned,70,Male,false,0,91351,Canyon Country
+Churned,23,Female,false,0,92592,Temecula
+Churned,35,Male,false,0,95482,Ukiah
+Churned,42,Male,false,0,95545,Honeydew
+Churned,49,Female,false,0,92028,Fallbrook
+Churned,36,Female,false,0,91325,Northridge
+Churned,40,Male,false,0,92117,San Diego
+Churned,35,Male,false,0,95427,Comptche
+Churned,25,Male,false,0,96071,Old Station
+Churned,43,Female,false,0,91901,Alpine
+Churned,59,Male,false,0,96029,Flournoy
+Churned,32,Male,false,0,91350,Santa Clarita
+Churned,54,Male,false,0,91746,La Puente
+Churned,33,Female,false,0,92024,Encinitas
+Churned,47,Male,false,0,92249,Heber
+Churned,71,Male,false,0,91204,Glendale
+Churned,70,Male,false,0,95971,Quincy
+Churned,67,Male,false,0,92399,Yucaipa
+Churned,78,Male,false,0,95526,Bridgeville
+Churned,72,Female,false,0,91362,Thousand Oaks
+Churned,48,Female,false,0,94040,Mountain View
+Churned,49,Female,false,0,95966,Oroville
+Churned,29,Female,false,0,92270,Rancho Mirage
+Churned,32,Female,true,1,95626,Elverta
+Churned,61,Female,false,0,94123,San Francisco
+Churned,44,Male,false,0,94619,Oakland
+Churned,34,Female,false,0,95633,Garden Valley
+Churned,38,Female,false,0,92592,Temecula
+Churned,30,Female,false,0,93224,Fellows
+Churned,20,Female,false,0,92028,Fallbrook
+Churned,66,Male,false,0,91901,Alpine
+Churned,69,Female,false,0,93215,Delano
+Churned,52,Female,false,0,93244,Lemon Cove
+Churned,33,Female,false,0,92117,San Diego
+Churned,57,Female,false,0,92117,San Diego
+Churned,35,Male,false,0,90056,Los Angeles
+Churned,52,Male,true,1,94508,Angwin
+Churned,71,Male,true,3,90065,Los Angeles
+Churned,77,Female,true,2,91107,Pasadena
+Churned,74,Male,false,0,96073,Palo Cedro
+Churned,70,Male,false,0,90028,Los Angeles
+Churned,66,Female,false,0,94590,Vallejo
+Churned,22,Female,false,0,91411,Van Nuys
+Churned,27,Female,false,0,94080,South San Francisco
+Churned,55,Female,false,0,96007,Anderson
+Churned,20,Male,false,0,95450,Jenner
+Churned,58,Female,false,0,94602,Oakland
+Churned,56,Male,false,0,95828,Sacramento
+Churned,52,Female,false,0,92126,San Diego
+Churned,39,Male,false,0,94306,Palo Alto
+Churned,41,Male,false,0,95948,Gridley
+Churned,51,Female,false,0,90810,Long Beach
+Churned,70,Male,false,0,91202,Glendale
+Churned,65,Male,false,0,93954,San Lucas
+Churned,50,Male,false,0,92028,Fallbrook
+Churned,58,Female,false,0,93667,Tollhouse
+Churned,21,Male,false,0,94949,Novato
+Churned,32,Female,false,0,95219,Stockton
+Churned,25,Male,false,0,92117,San Diego
+Churned,55,Female,false,0,93534,Lancaster
+Churned,59,Male,false,0,94576,Deer Park
+Churned,53,Male,false,0,95224,Avery
+Churned,58,Female,false,0,90807,Long Beach
+Churned,38,Male,false,0,91356,Tarzana
+Churned,29,Female,false,0,92371,Phelan
+Churned,57,Male,false,0,92591,Temecula
+Churned,55,Female,false,0,93606,Biola
+Churned,31,Female,false,0,93955,Seaside
+Churned,25,Male,false,0,95560,Redway
+Churned,42,Male,false,0,96039,Happy Camp
+Churned,74,Female,false,0,93224,Fellows
+Churned,67,Male,false,0,95692,Wheatland
+Churned,75,Male,false,0,92655,Midway City
+Churned,34,Male,false,0,92122,San Diego
+Churned,32,Male,false,0,93001,Ventura
+Churned,57,Female,false,0,94545,Hayward
+Churned,34,Female,false,0,95616,Davis
+Churned,60,Male,false,0,95636,Grizzly Flats
+Churned,44,Male,true,1,90742,Sunset Beach
+Churned,36,Female,false,0,92118,Coronado
+Churned,60,Female,false,0,92270,Rancho Mirage
+Churned,30,Male,false,0,95432,Elk
+Churned,39,Female,false,0,96017,Castella
+Churned,30,Male,false,0,90291,Venice
+Churned,52,Female,false,0,92592,Temecula
+Churned,62,Male,false,0,93266,Stratford
+Churned,61,Male,false,0,91773,San Dimas
+Churned,80,Male,false,0,94514,Byron
+Churned,65,Male,false,0,92532,Lake Elsinore
+Churned,78,Male,false,0,95987,Williams
+Churned,79,Male,false,0,96044,Hornbrook
+Churned,20,Female,false,0,92325,Crestline
+Churned,33,Male,false,0,92130,San Diego
+Churned,57,Female,false,0,95497,The Sea Ranch
+Churned,35,Female,false,0,94924,Bolinas
+Churned,54,Female,true,2,95554,Myers Flat
+Churned,53,Male,false,0,91103,Pasadena
+Churned,22,Male,false,0,92111,San Diego
+Churned,70,Male,false,0,93665,South Dos Palos
+Churned,77,Female,false,0,93618,Dinuba
+Churned,52,Male,false,0,93932,Lockwood
+Churned,41,Male,false,0,95236,Linden
+Churned,51,Female,false,0,93001,Ventura
+Churned,21,Male,false,0,94567,Pope Valley
+Churned,63,Female,false,0,90033,Los Angeles
+Churned,64,Female,false,0,93664,Shaver Lake
+Churned,38,Male,false,0,95564,Samoa
+Churned,54,Female,false,0,94587,Union City
+Churned,74,Male,false,0,92661,Newport Beach
+Churned,68,Female,false,0,94564,Pinole
+Churned,78,Male,false,0,94806,San Pablo
+Churned,75,Male,false,0,96074,Paskenta
+Churned,73,Female,false,0,94558,Napa
+Churned,26,Male,false,0,90403,Santa Monica
+Churned,51,Male,true,2,91204,Glendale
+Churned,34,Male,false,0,95662,Orangevale
+Churned,42,Female,false,0,93201,Alpaugh
+Churned,45,Female,false,0,93427,Buellton
+Churned,28,Female,false,0,92129,San Diego
+Churned,42,Male,false,0,90066,Los Angeles
+Churned,30,Male,true,3,92239,Desert Center
+Churned,42,Female,false,0,95035,Milpitas
+Churned,58,Male,false,0,95692,Wheatland
+Churned,20,Male,false,0,96142,Tahoma
+Churned,39,Female,false,0,95050,Santa Clara
+Churned,77,Female,false,0,92084,Vista
+Churned,69,Male,false,0,91770,Rosemead
+Churned,62,Female,true,2,90606,Whittier
+Churned,35,Female,false,0,95526,Bridgeville
+Churned,53,Male,false,0,95826,Sacramento
+Churned,62,Male,false,0,95954,Magalia
+Churned,35,Female,false,0,92117,San Diego
+Churned,30,Male,false,0,92117,San Diego
+Churned,45,Female,false,0,93651,Prather
+Churned,45,Female,false,0,95060,Santa Cruz
+Churned,26,Female,false,0,95476,Sonoma
+Churned,19,Female,false,0,91105,Pasadena
+Churned,48,Male,false,0,93463,Solvang
+Churned,21,Female,false,0,95129,San Jose
+Churned,64,Male,false,0,95365,Planada
+Churned,54,Male,false,0,90062,Los Angeles
+Churned,40,Female,false,0,92273,Seeley
+Churned,78,Female,true,1,90303,Inglewood
+Churned,28,Female,false,0,94579,San Leandro
+Churned,19,Female,false,0,90004,Los Angeles
+Churned,56,Male,false,0,90272,Pacific Palisades
+Churned,53,Male,false,0,93644,Oakhurst
+Churned,59,Male,false,0,94114,San Francisco
+Churned,51,Female,false,0,94107,San Francisco
+Churned,31,Male,false,0,95117,San Jose
+Churned,44,Female,false,0,95231,French Camp
+Churned,25,Male,false,0,96137,Westwood
+Churned,51,Male,false,0,92109,San Diego
+Churned,59,Male,false,0,92109,San Diego
+Churned,49,Female,false,0,92111,San Diego
+Churned,61,Female,false,0,92126,San Diego
+Churned,57,Male,false,0,92008,Carlsbad
+Churned,77,Female,false,0,92509,Riverside
+Churned,68,Female,false,0,95020,Gilroy
+Churned,74,Female,false,0,95232,Glencoe
+Churned,75,Male,false,0,95464,Nice
+Churned,68,Male,false,0,95543,Gasquet
+Churned,76,Female,false,0,92126,San Diego
+Churned,76,Female,false,0,95453,Lakeport
+Churned,68,Male,false,0,95919,Brownsville
+Churned,63,Female,false,0,92662,Newport Beach
+Churned,28,Male,false,0,95130,San Jose
+Churned,31,Female,false,0,92130,San Diego
+Churned,62,Female,false,0,90810,Long Beach
+Churned,48,Female,false,0,92109,San Diego
+Churned,57,Male,false,0,93921,Carmel By The Sea
+Churned,20,Male,false,0,95401,Santa Rosa
+Churned,33,Male,false,0,96013,Burney
+Churned,20,Female,false,0,92075,Solana Beach
+Churned,76,Male,false,0,92592,Temecula
+Churned,73,Female,false,0,90712,Lakewood
+Churned,79,Female,false,0,92130,San Diego
+Churned,71,Male,false,0,94559,Napa
+Churned,78,Male,false,0,94021,Loma Mar
+Churned,77,Male,false,0,95206,Stockton
+Churned,73,Male,false,0,93449,Pismo Beach
+Churned,79,Male,false,0,94028,Portola Valley
+Churned,54,Male,false,0,92028,Fallbrook
+Churned,62,Male,false,0,95694,Winters
+Churned,56,Male,false,0,95993,Yuba City
+Churned,37,Female,false,0,90025,Los Angeles
+Churned,40,Male,false,0,90303,Inglewood
+Churned,31,Female,false,0,91344,Granada Hills
+Churned,30,Female,false,0,91605,North Hollywood
+Churned,36,Female,false,0,92117,San Diego
+Churned,25,Female,false,0,92539,Anza
+Churned,60,Male,false,0,93010,Camarillo
+Churned,26,Male,false,0,93647,Orosi
+Churned,46,Female,false,0,94010,Burlingame
+Churned,61,Male,true,1,94538,Fremont
+Churned,40,Female,false,0,94572,Rodeo
+Churned,47,Female,false,0,94937,Inverness
+Churned,45,Male,false,0,95446,Guerneville
+Churned,62,Female,false,0,95665,Pine Grove
+Churned,62,Male,false,0,95670,Rancho Cordova
+Churned,50,Male,false,0,90631,La Habra
+Churned,34,Male,false,0,92401,San Bernardino
+Churned,53,Female,false,0,93531,Keene
+Churned,29,Male,false,0,95212,Stockton
+Churned,55,Female,false,0,96143,Kings Beach
+Churned,31,Female,false,0,91746,La Puente
+Churned,46,Female,false,0,92530,Lake Elsinore
+Churned,27,Female,true,3,92548,Homeland
+Churned,49,Male,false,0,93207,California Hot Springs
+Churned,51,Female,false,0,94567,Pope Valley
+Churned,25,Male,false,0,94611,Oakland
+Churned,55,Male,false,0,95121,San Jose
+Churned,30,Female,false,0,95316,Denair
+Churned,42,Male,false,0,95567,Smith River
+Churned,41,Female,false,0,95685,Sutter Creek
+Churned,39,Male,false,0,96092,Vina
+Churned,47,Female,false,0,90241,Downey
+Churned,70,Female,true,2,91106,Pasadena
+Churned,69,Male,false,0,92122,San Diego
+Churned,65,Female,false,0,94583,San Ramon
+Churned,68,Male,false,0,92121,San Diego
+Churned,76,Female,false,0,92117,San Diego
+Churned,73,Male,false,0,94109,San Francisco
+Churned,70,Female,false,0,94130,San Francisco
+Churned,70,Male,false,0,96125,Sierra City
+Churned,69,Female,false,0,93627,Helm
+Churned,67,Female,false,0,95950,Grimes
+Churned,78,Male,false,0,94061,Redwood City
+Churned,71,Male,false,0,95006,Boulder Creek
+Churned,65,Male,false,0,90242,Downey
+Churned,79,Female,false,0,92078,San Marcos
+Churned,62,Male,true,3,91345,Mission Hills
+Churned,41,Female,false,0,91744,La Puente
+Churned,61,Male,false,0,92122,San Diego
+Churned,38,Male,false,0,93205,Bodfish
+Churned,54,Female,false,0,92129,San Diego
+Churned,45,Female,false,0,93553,Pearblossom
+Churned,55,Male,false,0,94043,Mountain View
+Churned,54,Male,false,0,94965,Sausalito
+Churned,33,Male,false,0,95252,Valley Springs
+Churned,42,Male,false,0,95305,Big Oak Flat
+Churned,31,Male,false,0,95323,Hickman
+Churned,53,Female,false,0,95427,Comptche
+Churned,51,Male,false,0,95981,Strawberry Valley
+Churned,38,Female,false,0,96050,Klamath River
+Churned,43,Male,false,0,91770,Rosemead
+Churned,61,Male,false,0,92258,North Palm Springs
+Churned,60,Male,false,0,93060,Santa Paula
+Churned,24,Female,false,0,94539,Fremont
+Churned,51,Male,false,0,95524,Bayside
+Churned,41,Male,false,0,95601,Amador City
+Churned,37,Male,false,0,96112,Fort Bidwell
+Churned,36,Female,false,0,91105,Pasadena
+Churned,23,Female,false,0,91501,Burbank
+Churned,59,Male,false,0,90028,Los Angeles
+Churned,64,Female,false,0,92592,Temecula
+Churned,35,Male,false,0,95220,Acampo
+Churned,64,Male,false,0,95382,Turlock
+Churned,31,Male,false,0,95519,Mckinleyville
+Churned,38,Male,false,0,95838,Sacramento
+Churned,41,Female,false,0,95923,Canyon Dam
+Churned,53,Male,false,0,90245,El Segundo
+Churned,56,Female,false,0,90260,Lawndale
+Churned,48,Female,false,0,90290,Topanga
+Churned,48,Male,false,0,92028,Fallbrook
+Churned,39,Male,false,0,91605,North Hollywood
+Churned,61,Male,false,0,91737,Rancho Cucamonga
+Churned,62,Female,false,0,92126,San Diego
+Churned,49,Male,false,0,92377,Rialto
+Churned,39,Female,false,0,92384,Shoshone
+Churned,35,Male,false,0,92398,Yermo
+Churned,31,Female,false,0,92557,Moreno Valley
+Churned,21,Female,false,0,93465,Templeton
+Churned,33,Male,false,0,93726,Fresno
+Churned,45,Male,false,0,94517,Clayton
+Churned,27,Male,false,0,94706,Albany
+Churned,28,Male,false,0,95714,Dutch Flat
+Churned,49,Male,true,1,96040,Hat Creek
+Churned,51,Male,false,0,96055,Los Molinos
+Churned,46,Male,false,0,96056,Mcarthur
+Churned,62,Female,false,0,96076,Platina
+Churned,20,Male,true,3,92121,San Diego
+Churned,38,Female,true,3,90717,Lomita
+Churned,64,Female,false,0,91763,Montclair
+Churned,34,Male,false,0,92064,Poway
+Churned,70,Female,false,0,92003,Bonsall
+Churned,69,Female,false,0,93066,Somis
+Churned,58,Male,false,0,93624,Five Points
+Churned,46,Female,false,0,94587,Union City
+Churned,44,Male,false,0,92027,Escondido
+Churned,58,Female,false,0,92324,Colton
+Churned,60,Male,false,0,92629,Dana Point
+Churned,44,Male,false,0,93205,Bodfish
+Churned,49,Male,false,0,91731,El Monte
+Churned,38,Female,false,0,92126,San Diego
+Churned,63,Female,false,0,93292,Visalia
+Churned,42,Male,false,0,95358,Modesto
+Churned,60,Female,false,0,91748,Rowland Heights
+Churned,66,Male,false,0,92705,Santa Ana
+Churned,80,Female,false,0,91767,Pomona
+Churned,77,Female,false,0,95136,San Jose
+Churned,71,Female,false,0,90723,Paramount
+Churned,48,Female,false,0,93238,Kernville
+Churned,61,Female,false,0,94580,San Lorenzo
+Churned,55,Female,false,0,94939,Larkspur
+Churned,33,Male,false,0,95240,Lodi
+Churned,61,Male,false,0,91748,Rowland Heights
+Churned,41,Female,false,0,93030,Oxnard
+Churned,56,Female,false,0,95018,Felton
+Churned,56,Female,false,0,91605,North Hollywood
+Churned,75,Male,false,0,94114,San Francisco
+Churned,73,Female,false,0,92117,San Diego
+Churned,74,Female,false,0,93516,Boron
+Churned,79,Female,false,0,92121,San Diego
+Churned,73,Female,false,0,92028,Fallbrook
+Churned,39,Male,true,2,91304,Canoga Park
+Churned,58,Male,false,0,96014,Callahan
+Churned,22,Female,false,0,96009,Bieber
+Churned,20,Female,false,0,91722,Covina
+Churned,40,Female,false,0,91803,Alhambra
+Churned,54,Female,false,0,92028,Fallbrook
+Churned,48,Male,false,0,91773,San Dimas
+Churned,69,Male,false,0,92129,San Diego
+Churned,77,Female,false,0,92130,San Diego
+Churned,27,Male,false,0,92129,San Diego
+Churned,47,Female,false,0,92309,Baker
+Churned,39,Female,false,0,95006,Boulder Creek
+Churned,23,Male,false,0,95233,Hathaway Pines
+Churned,57,Male,false,0,95655,Mather
+Churned,64,Male,false,0,95926,Chico
+Churned,48,Female,false,0,93675,Squaw Valley
+Churned,58,Male,false,0,95918,Browns Valley
+Churned,60,Female,false,0,95955,Maxwell
+Churned,62,Female,true,3,90740,Seal Beach
+Churned,46,Female,false,0,93612,Clovis
+Churned,67,Male,false,0,91746,La Puente
+Churned,75,Male,false,0,93067,Summerland
+Churned,76,Female,false,0,92027,Escondido
+Churned,74,Female,false,0,90620,Buena Park
+Churned,37,Male,false,0,94923,Bodega Bay
+Churned,33,Female,false,0,92117,San Diego
+Churned,24,Female,false,0,91948,Mount Laguna
+Churned,35,Female,false,0,90042,Los Angeles
+Churned,61,Female,false,0,92126,San Diego
+Churned,45,Male,false,0,93536,Lancaster
+Churned,50,Male,false,0,94601,Oakland
+Churned,40,Female,false,0,95601,Amador City
+Churned,70,Female,false,0,91711,Claremont
+Churned,67,Male,false,0,94803,El Sobrante
+Churned,77,Female,false,0,90230,Culver City
+Churned,51,Male,false,0,95017,Davenport
+Churned,30,Female,false,0,92886,Yorba Linda
+Churned,50,Male,false,0,95721,Echo Lake
+Churned,53,Male,false,0,96150,South Lake Tahoe
+Churned,36,Female,false,0,90056,Los Angeles
+Churned,44,Male,false,0,92337,Fontana
+Churned,29,Female,false,0,94132,San Francisco
+Churned,42,Female,false,0,95374,Stevinson
+Churned,63,Female,false,0,95669,Plymouth
+Churned,24,Male,false,0,94950,Olema
+Churned,59,Male,false,0,95463,Navarro
+Churned,61,Female,true,1,91733,South El Monte
+Churned,49,Female,false,0,92223,Beaumont
+Churned,73,Male,false,0,94104,San Francisco
+Churned,30,Male,false,0,90301,Inglewood
+Churned,48,Female,false,0,92122,San Diego
+Churned,51,Male,false,0,92506,Riverside
+Churned,49,Male,false,0,95407,Santa Rosa
+Churned,56,Male,false,0,95690,Walnut Grove
+Churned,62,Male,false,0,95961,Olivehurst
+Churned,46,Female,false,0,92887,Yorba Linda
+Churned,23,Male,false,0,92592,Temecula
+Churned,31,Female,true,5,93901,Salinas
+Churned,51,Female,false,0,95837,Sacramento
+Churned,71,Female,false,0,96011,Big Bend
+Churned,75,Female,false,0,92126,San Diego
+Churned,78,Female,false,0,90254,Hermosa Beach
+Churned,29,Female,false,0,92122,San Diego
+Churned,58,Male,false,0,94940,Marshall
+Churned,45,Female,false,0,91773,San Dimas
+Churned,43,Female,true,1,95526,Bridgeville
+Churned,34,Female,false,0,95633,Garden Valley
+Churned,33,Female,false,0,92028,Fallbrook
+Churned,34,Male,false,0,95127,San Jose
+Churned,27,Female,false,0,95953,Live Oak
+Churned,62,Female,false,0,92109,San Diego
+Churned,44,Female,false,0,95672,Rescue
+Churned,65,Male,false,0,90808,Long Beach
+Churned,67,Female,false,0,92109,San Diego
+Churned,78,Female,false,0,91776,San Gabriel
+Churned,52,Male,false,0,91791,West Covina
+Churned,49,Male,false,0,92028,Fallbrook
+Churned,40,Male,false,0,93234,Huron
+Churned,37,Male,false,0,95713,Colfax
+Churned,33,Male,false,0,94117,San Francisco
+Churned,39,Female,false,0,92823,Brea
+Churned,74,Female,true,1,90063,Los Angeles
+Churned,74,Female,false,0,90802,Long Beach
+Churned,29,Female,false,0,92543,Hemet
+Churned,44,Male,false,0,95004,Aromas
+Churned,46,Male,false,0,90016,Los Angeles
+Churned,39,Female,false,0,95223,Arnold
+Churned,63,Female,false,0,95842,Sacramento
+Churned,55,Male,true,3,96132,Termo
+Churned,61,Female,false,0,95625,Elmira
+Churned,39,Female,false,0,95981,Strawberry Valley
+Churned,25,Female,false,0,91931,Guatay
+Churned,44,Male,false,0,92264,Palm Springs
+Churned,65,Female,false,0,92592,Temecula
+Churned,75,Male,false,0,93612,Clovis
+Churned,67,Male,false,0,95608,Carmichael
+Churned,48,Female,true,2,90042,Los Angeles
+Churned,23,Female,false,0,92117,San Diego
+Churned,30,Female,false,0,93628,Hume
+Churned,47,Female,false,0,96110,Eagleville
+Churned,31,Female,false,0,90024,Los Angeles
+Churned,53,Female,false,0,94010,Burlingame
+Churned,68,Female,false,0,92625,Corona Del Mar
+Churned,78,Female,false,0,95355,Modesto
+Churned,75,Female,false,0,90304,Inglewood
+Churned,20,Female,false,0,96022,Cottonwood
+Churned,46,Male,false,0,92518,March Air Reserve Base
+Churned,22,Female,false,0,93702,Fresno
+Churned,52,Male,false,0,92109,San Diego
+Churned,57,Female,false,0,92109,San Diego
+Churned,27,Male,false,0,95361,Oakdale
+Churned,65,Female,false,0,93675,Squaw Valley
+Churned,77,Female,false,0,95681,Sheridan
+Churned,75,Male,false,0,92555,Moreno Valley
+Churned,80,Female,false,0,92027,Escondido
+Churned,79,Female,false,0,95970,Princeton
+Churned,73,Male,false,0,94602,Oakland
+Churned,22,Male,false,0,92587,Sun City
+Churned,44,Female,false,0,92701,Santa Ana
+Churned,36,Male,false,0,94538,Fremont
+Churned,27,Female,false,0,95125,San Jose
+Churned,56,Female,true,2,94525,Crockett
+Churned,28,Male,false,0,94941,Mill Valley
+Churned,34,Male,false,0,91741,Glendora
+Churned,51,Male,false,0,92539,Anza
+Churned,33,Male,false,0,93257,Porterville
+Churned,50,Female,false,0,95032,Los Gatos
+Churned,21,Female,false,0,93531,Keene
+Churned,27,Male,false,0,95449,Hopland
+Churned,51,Female,false,0,96125,Sierra City
+Churned,22,Female,false,0,92014,Del Mar
+Churned,74,Female,false,0,92122,San Diego
+Churned,69,Male,false,0,93110,Santa Barbara
+Churned,77,Male,false,0,95814,Sacramento
+Churned,65,Male,false,0,90005,Los Angeles
+Churned,79,Female,false,0,92109,San Diego
+Churned,26,Male,false,0,92122,San Diego
+Churned,41,Female,false,0,93660,San Joaquin
+Churned,31,Male,false,0,95386,Waterford
+Churned,53,Female,false,0,96050,Klamath River
+Churned,29,Male,false,0,96126,Sierraville
+Churned,23,Female,false,0,92276,Thousand Palms
+Churned,57,Male,false,0,92694,Ladera Ranch
+Churned,25,Female,false,0,96080,Red Bluff
+Churned,33,Female,true,1,93261,Richgrove
+Churned,63,Male,false,0,92233,Calipatria
+Churned,78,Female,false,0,95835,Sacramento
+Churned,66,Male,false,0,90713,Lakewood
+Churned,74,Female,false,0,93287,Woody
+Churned,71,Female,false,0,92109,San Diego
+Churned,68,Male,false,0,93925,Chualar
+Churned,69,Female,false,0,91737,Rancho Cucamonga
+Churned,80,Female,false,0,91740,Glendora
+Churned,52,Male,false,0,92646,Huntington Beach
+Churned,21,Male,false,0,94520,Concord
+Churned,20,Female,false,0,90740,Seal Beach
+Churned,44,Female,false,0,91040,Sunland
+Churned,55,Male,false,0,92117,San Diego
+Churned,55,Female,false,0,92103,San Diego
+Churned,71,Male,false,0,92258,North Palm Springs
+Churned,65,Female,false,0,93065,Simi Valley
+Churned,26,Male,false,0,93202,Armona
+Churned,61,Male,false,0,93630,Kerman
+Churned,23,Male,false,0,95129,San Jose
+Churned,41,Male,false,0,93040,Piru
+Churned,39,Female,false,0,95401,Santa Rosa
+Churned,48,Female,false,0,95988,Willows
+Churned,19,Male,false,0,92027,Escondido
+Churned,69,Female,false,0,95630,Folsom
+Churned,79,Female,false,0,92408,San Bernardino
+Churned,45,Male,false,0,90712,Lakewood
+Churned,19,Male,false,0,91352,Sun Valley
+Churned,47,Female,false,0,92122,San Diego
+Churned,21,Male,false,0,93665,South Dos Palos
+Churned,33,Male,false,0,95553,Miranda
+Churned,35,Female,false,0,90706,Bellflower
+Churned,51,Female,false,0,95709,Camino
+Churned,48,Female,false,0,93267,Strathmore
+Churned,43,Male,false,0,95722,Meadow Vista
+Churned,48,Female,false,0,90623,La Palma
+Churned,22,Male,false,0,92126,San Diego
+Churned,53,Male,false,0,93263,Shafter
+Churned,33,Female,false,0,94965,Sausalito
+Churned,55,Female,false,0,91901,Alpine
+Churned,76,Female,false,0,92028,Fallbrook
+Churned,66,Male,false,0,93591,Palmdale
+Churned,78,Female,false,0,92620,Irvine
+Churned,74,Female,false,0,96074,Paskenta
+Churned,36,Male,false,0,95382,Turlock
+Churned,27,Female,false,0,95525,Blue Lake
+Churned,43,Female,false,0,92281,Westmorland
+Churned,63,Female,false,0,95369,Snelling
+Churned,46,Male,false,0,95404,Santa Rosa
+Churned,53,Male,false,0,95686,Thornton
+Churned,21,Female,false,0,94574,Saint Helena
+Churned,49,Female,false,0,95963,Orland
+Churned,27,Male,false,0,91906,Campo
+Churned,68,Female,false,0,95636,Grizzly Flats
+Churned,60,Male,false,0,93702,Fresno
+Churned,64,Female,false,0,94609,Oakland
+Churned,49,Female,false,0,96023,Dorris
+Churned,59,Male,false,0,93950,Pacific Grove
+Churned,25,Female,false,0,95934,Crescent Mills
+Churned,25,Female,true,2,92821,Brea
+Churned,31,Female,false,0,90028,Los Angeles
+Churned,27,Male,true,1,91775,San Gabriel
+Churned,70,Male,false,0,95005,Ben Lomond
+Churned,61,Female,false,0,93442,Morro Bay
+Churned,32,Female,false,0,93643,North Fork
+Churned,53,Male,false,0,91773,San Dimas
+Churned,62,Male,false,0,94027,Atherton
+Churned,19,Male,false,0,94544,Hayward
+Churned,57,Female,true,2,95602,Auburn
+Churned,28,Female,false,0,93720,Fresno
+Churned,66,Female,false,0,93932,Lockwood
+Churned,80,Male,false,0,94132,San Francisco
+Churned,64,Male,false,0,90710,Harbor City
+Churned,51,Male,false,0,91770,Rosemead
+Churned,30,Male,false,0,92122,San Diego
+Churned,51,Female,false,0,92612,Irvine
+Churned,24,Male,false,0,93953,Pebble Beach
+Churned,21,Male,false,0,94563,Orinda
+Churned,47,Male,false,0,96150,South Lake Tahoe
+Churned,35,Male,true,7,93277,Visalia
+Churned,47,Male,false,0,93437,Lompoc
+Churned,26,Male,false,0,96052,Lewiston
+Churned,76,Male,false,0,95524,Bayside
+Churned,22,Male,false,0,91601,North Hollywood
+Churned,63,Male,false,0,92122,San Diego
+Churned,64,Male,false,0,92122,San Diego
+Churned,31,Female,false,0,90045,Los Angeles
+Churned,38,Female,false,0,94520,Concord
+Churned,31,Female,false,0,94089,Sunnyvale
+Churned,49,Female,false,0,95326,Hughson
+Churned,60,Male,false,0,95758,Elk Grove
+Churned,58,Male,false,0,95820,Sacramento
+Churned,73,Female,false,0,95135,San Jose
+Churned,72,Female,false,0,92397,Wrightwood
+Churned,72,Female,false,0,93928,Jolon
+Churned,73,Female,false,0,92027,Escondido
+Churned,73,Male,false,0,90024,Los Angeles
+Churned,77,Male,false,0,92620,Irvine
+Churned,70,Female,false,0,93662,Selma
+Churned,22,Female,false,0,92301,Adelanto
+Churned,53,Male,false,0,94541,Hayward
+Churned,29,Male,false,0,92117,San Diego
+Churned,30,Female,false,0,93665,South Dos Palos
+Churned,21,Female,false,0,95254,Wallace
+Churned,23,Female,false,0,95612,Clarksburg
+Churned,39,Male,false,0,95956,Meadow Valley
+Churned,53,Female,false,0,92109,San Diego
+Churned,29,Male,true,3,93927,Greenfield
+Churned,34,Male,false,0,95950,Grimes
+Churned,44,Female,false,0,95987,Williams
+Churned,74,Male,false,0,93662,Selma
+Churned,66,Female,false,0,93706,Fresno
+Churned,71,Male,false,0,91710,Chino
+Churned,70,Male,false,0,93010,Camarillo
+Churned,79,Female,false,0,90712,Lakewood
+Churned,80,Male,false,0,90059,Los Angeles
+Churned,26,Female,true,3,91042,Tujunga
+Churned,51,Male,false,0,91762,Ontario
+Churned,40,Female,false,0,92338,Ludlow
+Churned,44,Female,false,0,94122,San Francisco
+Churned,41,Female,false,0,95664,Pilot Hill
+Churned,47,Male,false,0,95827,Sacramento
+Churned,52,Female,false,0,93108,Santa Barbara
+Churned,29,Male,false,0,93223,Farmersville
+Churned,53,Male,false,0,93274,Tulare
+Churned,35,Male,false,0,95914,Bangor
+Churned,46,Male,false,0,91010,Duarte
+Churned,22,Female,false,0,91732,El Monte
+Churned,66,Male,false,0,94588,Pleasanton
+Churned,71,Male,true,1,95655,Mather
+Churned,23,Female,true,3,90010,Los Angeles
+Churned,51,Male,false,0,94555,Fremont
+Churned,62,Male,false,0,94706,Albany
+Churned,26,Male,false,0,95338,Mariposa
+Churned,43,Female,false,0,90048,Los Angeles
+Churned,55,Male,false,0,90623,La Palma
+Churned,56,Female,false,0,92841,Garden Grove
+Churned,74,Female,false,0,92122,San Diego
+Churned,78,Female,false,0,92210,Indian Wells
+Churned,67,Male,false,0,95037,Morgan Hill
+Churned,40,Female,false,0,92122,San Diego
+Churned,33,Male,false,0,92630,Lake Forest
+Churned,39,Female,false,0,90680,Stanton
+Churned,58,Male,false,0,92657,Newport Coast
+Churned,43,Female,false,0,93933,Marina
+Churned,39,Female,false,0,95367,Riverbank
+Churned,48,Female,false,0,92126,San Diego
+Churned,53,Female,false,0,92807,Anaheim
+Churned,55,Male,false,0,94509,Antioch
+Churned,54,Female,false,0,95454,Laytonville
+Churned,78,Female,false,0,95703,Applegate
+Churned,80,Male,false,0,92590,Temecula
+Churned,31,Female,true,2,90006,Los Angeles
+Churned,46,Male,false,0,93933,Marina
+Churned,42,Female,false,0,92304,Amboy
+Churned,26,Male,false,0,94589,Vallejo
+Churned,34,Male,false,0,90502,Torrance
+Churned,40,Female,false,0,92844,Garden Grove
+Churned,74,Male,false,0,95030,Los Gatos
+Churned,65,Male,false,0,94601,Oakland
+Churned,68,Male,false,0,94556,Moraga
+Churned,79,Female,false,0,92210,Indian Wells
+Churned,41,Female,false,0,92117,San Diego
+Churned,30,Male,false,0,92359,Mentone
+Churned,37,Male,false,0,92027,Escondido
+Churned,55,Female,false,0,92870,Placentia
+Churned,49,Male,false,0,90703,Cerritos
+Churned,26,Female,false,0,91773,San Dimas
+Churned,24,Male,false,0,93650,Fresno
+Churned,44,Female,false,0,95937,Dunnigan
+Churned,30,Female,false,0,92130,San Diego
+Churned,32,Female,false,0,90717,Lomita
+Churned,47,Male,false,0,91042,Tujunga
+Churned,29,Female,false,0,91331,Pacoima
+Churned,48,Male,false,0,92117,San Diego
+Churned,39,Male,false,0,94127,San Francisco
+Churned,20,Male,false,0,94515,Calistoga
+Churned,63,Female,false,0,94104,San Francisco
+Churned,33,Female,true,1,95113,San Jose
+Churned,69,Female,false,0,92028,Fallbrook
+Churned,67,Female,false,0,95306,Catheys Valley
+Churned,76,Male,false,0,95930,Clipper Mills
+Churned,80,Female,false,0,93440,Los Alamos
+Churned,69,Male,false,0,92121,San Diego
+Churned,41,Male,false,0,91803,Alhambra
+Churned,26,Male,false,0,92129,San Diego
+Churned,42,Male,false,0,92592,Temecula
+Churned,32,Female,false,0,94509,Antioch
+Churned,26,Female,false,0,94945,Novato
+Churned,62,Female,false,0,95116,San Jose
+Churned,57,Female,false,0,95240,Lodi
+Churned,41,Male,false,0,92117,San Diego
+Churned,35,Female,false,0,92117,San Diego
+Churned,25,Female,false,0,94533,Fairfield
+Churned,21,Male,false,0,94601,Oakland
+Churned,42,Female,false,0,90403,Santa Monica
+Churned,54,Female,false,0,91316,Encino
+Churned,34,Female,false,0,93532,Lake Hughes
+Churned,39,Male,false,0,91355,Valencia
+Churned,63,Male,false,0,92109,San Diego
+Churned,62,Male,false,0,92126,San Diego
+Churned,60,Male,false,0,93105,Santa Barbara
+Churned,35,Female,false,0,95321,Groveland
+Churned,22,Male,false,0,92121,San Diego
+Churned,34,Male,false,0,92121,San Diego
+Churned,78,Male,false,0,90022,Los Angeles
+Churned,72,Male,false,0,92129,San Diego
+Churned,75,Male,false,0,91335,Reseda
+Churned,67,Male,false,0,95251,Sheep Ranch
+Churned,78,Female,false,0,96007,Anderson
+Churned,66,Female,false,0,90029,Los Angeles
+Churned,70,Female,false,0,91020,Montrose
+Churned,69,Female,false,0,92126,San Diego
+Churned,76,Male,false,0,92126,San Diego
+Churned,68,Male,false,0,92651,Laguna Beach
+Churned,75,Female,false,0,94561,Oakley
+Churned,77,Female,false,0,92115,San Diego
+Churned,54,Male,false,0,92122,San Diego
+Churned,64,Female,false,0,92549,Idyllwild
+Churned,27,Female,false,0,93041,Port Hueneme
+Churned,41,Female,false,0,92027,Escondido
+Churned,50,Female,false,0,94931,Cotati
+Churned,63,Male,false,0,95046,San Martin
+Churned,19,Female,false,0,95315,Delhi
+Churned,54,Female,false,0,96051,Lakehead
+Churned,46,Male,false,0,91345,Mission Hills
+Churned,56,Male,false,0,92321,Cedar Glen
+Churned,38,Male,false,0,92386,Sugarloaf
+Churned,37,Female,false,0,94949,Novato
+Churned,42,Male,false,0,95121,San Jose
+Churned,38,Male,false,0,92028,Fallbrook
+Churned,39,Female,false,0,96096,Whitmore
+Churned,23,Male,false,0,91355,Valencia
+Churned,53,Female,true,3,92009,Carlsbad
+Churned,22,Male,false,0,92316,Bloomington
+Churned,32,Female,false,0,92688,Rancho Santa Margarita
+Churned,21,Male,false,0,93535,Lancaster
+Churned,42,Male,false,0,94108,San Francisco
+Churned,58,Female,false,0,95322,Gustine
+Churned,50,Male,false,0,95639,Hood
+Churned,24,Female,false,0,91745,Hacienda Heights
+Churned,44,Female,false,0,92109,San Diego
+Churned,20,Female,false,0,92126,San Diego
+Churned,61,Male,false,0,93067,Summerland
+Churned,32,Male,false,0,93110,Santa Barbara
+Churned,40,Male,false,0,93268,Taft
+Churned,58,Female,false,0,93287,Woody
+Churned,55,Female,false,0,95562,Rio Dell
+Churned,73,Male,false,0,92129,San Diego
+Churned,65,Male,false,0,92130,San Diego
+Churned,80,Male,false,0,91304,Canoga Park
+Churned,67,Female,false,0,91384,Castaic
+Churned,68,Male,false,0,92394,Victorville
+Churned,74,Female,false,0,94903,San Rafael
+Churned,59,Female,false,0,92122,San Diego
+Churned,63,Female,false,0,92129,San Diego
+Churned,46,Female,false,0,92130,San Diego
+Churned,33,Male,false,0,90623,La Palma
+Churned,43,Male,true,3,94608,Emeryville
+Churned,23,Male,false,0,93549,Olancha
+Churned,31,Female,false,0,95720,Kyburz
+Churned,57,Male,false,0,91206,Glendale
+Churned,68,Female,false,0,93270,Terra Bella
+Churned,69,Male,false,0,96148,Tahoe Vista
+Churned,41,Male,false,0,94564,Pinole
+Churned,45,Male,false,0,91711,Claremont
+Churned,30,Male,false,0,95372,Soulsbyville
+Churned,39,Female,false,0,93518,Caliente
+Churned,54,Female,false,0,94945,Novato
+Churned,69,Female,false,0,95638,Herald
+Churned,74,Female,false,0,95661,Roseville
+Churned,80,Female,false,0,90263,Malibu
+Churned,70,Female,false,0,93401,San Luis Obispo
+Churned,63,Female,false,0,92122,San Diego
+Churned,23,Female,false,0,93221,Exeter
+Churned,59,Female,false,0,93711,Fresno
+Churned,44,Female,false,0,96021,Corning
+Churned,22,Male,false,0,92028,Fallbrook
+Churned,36,Male,false,0,94526,Danville
+Churned,56,Male,false,0,92405,San Bernardino
+Churned,44,Female,false,0,92555,Moreno Valley
+Churned,61,Female,false,0,93245,Lemoore
+Churned,44,Female,false,0,93437,Lompoc
+Churned,35,Female,false,0,93444,Nipomo
+Churned,29,Female,false,0,93908,Salinas
+Churned,57,Female,false,0,94603,Oakland
+Churned,63,Female,false,0,92130,San Diego
+Churned,76,Female,false,0,92121,San Diego
+Churned,70,Male,false,0,92061,Pauma Valley
+Churned,74,Male,false,0,92121,San Diego
+Churned,57,Male,false,0,93210,Coalinga
+Churned,48,Female,false,0,92129,San Diego
+Churned,62,Female,false,0,93647,Orosi
+Churned,23,Male,false,0,92117,San Diego
+Churned,63,Female,false,0,91303,Canoga Park
+Churned,50,Female,false,0,92119,San Diego
+Churned,63,Male,false,0,92127,San Diego
+Churned,21,Female,false,0,96073,Palo Cedro
+Churned,53,Female,false,0,92201,Indio
+Churned,74,Male,false,0,94904,Greenbrae
+Churned,65,Male,false,0,95128,San Jose
+Churned,70,Male,false,0,95942,Forest Ranch
+Churned,72,Male,false,0,92567,Nuevo
+Churned,74,Female,false,0,93615,Cutler
+Churned,68,Female,false,0,90039,Los Angeles
+Churned,72,Female,false,0,95637,Guinda
+Churned,79,Female,false,0,91501,Burbank
+Churned,41,Female,true,2,90211,Beverly Hills
+Churned,37,Female,false,0,93531,Keene
+Churned,48,Male,false,0,95335,Long Barn
+Churned,47,Female,false,0,95608,Carmichael
+Churned,50,Female,false,0,96011,Big Bend
+Churned,21,Male,false,0,91732,El Monte
+Churned,40,Male,false,0,95932,Colusa
+Churned,64,Male,false,0,91942,La Mesa
+Churned,34,Female,false,0,95984,Twain
+Churned,34,Female,false,0,92692,Mission Viejo
