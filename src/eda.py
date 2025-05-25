@@ -32,3 +32,4 @@ df_services_churned = df_services[df_services['Customer Status']== "Churned"]
 sns.scatterplot(data=df_services_churned, x='Monthly Charge', y='Tenure in Months', hue='Internet Type')
 plt.title('Churned Customers by Monthly Bill, Tenure, and Internet Type')
 plt.show()
+
